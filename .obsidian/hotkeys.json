@@ -1,0 +1,26 @@
+{
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Clear"
+    }
+  ]
+}
