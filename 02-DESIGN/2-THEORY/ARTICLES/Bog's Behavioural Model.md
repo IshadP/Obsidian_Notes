@@ -21,5 +21,5 @@ According to Foggs, three things can be inferenced from B=MAP,
 2. Harder the task, less likely for a person to do.
 3. Motivation & Ability work like team mates.
 
-# Motivation
+
 
