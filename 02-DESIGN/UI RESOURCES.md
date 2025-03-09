@@ -132,3 +132,22 @@ host: www.hudsandguis.com
 favicon: https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1415858454419-U3JTNI56MR19CV97FC6O/favicon.ico
 image: http://static1.squarespace.com/static/5438bd1be4b0446f6692b906/t/5452cba7e4b0f94405cfa1f0/1414712231534/logo.png?format=1500w
 ```
+
+
+```cardlink
+url: https://slack.design/
+title: "Slack Design"
+description: "A collection of articles and resources from the design team at Slack."
+host: slack.design
+image: https://slack.design/wp-content/uploads/sites/8/2023/02/slack_design_teamArtboard-1@2x.png?resize=1024,536
+```
+
+
+```cardlink
+url: https://spotify.design/
+title: "Home"
+description: "Spotify Design are a cross-disciplinary product design community. We love to create great experiences and make meaningful connections between listeners and creators. Here is where we share what we do and how we do it."
+host: spotify.design
+favicon: https://spotify.design/favicons/favicon.svg
+image: https://spotify.design/social/home.png
+```

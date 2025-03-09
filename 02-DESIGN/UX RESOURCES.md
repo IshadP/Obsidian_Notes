@@ -113,3 +113,20 @@ favicon: https://servicedesigntools.org/assets/images/favicons/favicon-32x32.png
 image: https://servicedesigntools.org/assets/images/home-social-img.png
 ```
 
+
+```cardlink
+url: https://usabilitygeek.com/
+title: "Usability Geek - Usability Geek"
+host: usabilitygeek.com
+favicon: https://usabilitygeek.com/wp-content/themes/monochrome-pro/images/favicon.ico
+```
+
+
+```cardlink
+url: https://shakuro.com/blog/category/shakuro-agency-about-design
+title: "Blog about development, web and mobile app design | Shakuro"
+description: "Shakuro design and development blog."
+host: shakuro.com
+favicon: https://shakuro.com/favicon-32x32.png
+image: https://shakuro.com/logo-social.jpg
+```
