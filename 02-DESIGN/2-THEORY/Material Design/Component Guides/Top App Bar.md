@@ -49,3 +49,7 @@ tags:
 -> upto three icons can be placed after headline till the end of container.
 -> if more icons are present use a **overflow menu**
 
+## Behaviour
+
+### Scrolling
+-> Top bar are positioned with same space, upon scrolling the bar fills with contrasting color to be distinguishable from background
