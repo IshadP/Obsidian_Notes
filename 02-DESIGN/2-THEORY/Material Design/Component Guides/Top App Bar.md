@@ -3,7 +3,7 @@ prefer-view: read
 cssclasses:
   - list-cards
   - cards-col-2
-url: 
+url: https://m3.material.io/components/top-app-bar/guidelines
 tags:
   - "#article"
   - Material-Design
@@ -53,3 +53,7 @@ tags:
 
 ### Scrolling
 -> Top bar are positioned with same space, upon scrolling the bar fills with contrasting color to be distinguishable from background
+
+---
+
+# Accessibility
