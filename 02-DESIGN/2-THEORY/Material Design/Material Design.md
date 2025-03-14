@@ -17,7 +17,6 @@ cssclasses:
 	- [[Grids & Units]]
 	- [[Immersive Content]]
 	- [[Layout Basics]]
-	- [[University-Program]]
-	- [[CAMP use cases]]
+	- [[Untitled]]
 
 %% End Waypoint %%
