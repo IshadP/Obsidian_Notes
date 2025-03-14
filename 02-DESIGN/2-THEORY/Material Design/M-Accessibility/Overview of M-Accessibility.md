@@ -32,4 +32,4 @@ The minimum requirement are defined by #WCAG to support specific human needs. De
 ![[Pasted image 20241026130824.png]]
 
 ---
-#accessibility #mateial-design #ux #WCAG 
+#accessibility  #Material-Design  #ux #WCAG 

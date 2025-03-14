@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Overview of M-Accessibility.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:mateial-design",
+                "query": "tag:#mateial-design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
