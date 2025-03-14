@@ -45,4 +45,7 @@ tags:
 ### Headline
 -> the screen on which user is currently, should be easy to fit, must not  be truncated or shrunken
 
-###
+### Trailing interactive icon
+-> upto three icons can be placed after headline till the end of container.
+-> if more icons are present use a **overflow menu**
+
