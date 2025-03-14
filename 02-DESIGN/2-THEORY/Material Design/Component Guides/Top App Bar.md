@@ -37,4 +37,12 @@ tags:
 ## Do's and Don't
 1. Top bar is always full width, and edge to edge
 2. Always use default height of top bar
-3. 
+
+## Components
+### Navigation Icon
+-> it's aligned to left of the bar, can be a menu icon and a back arrow
+
+### Headline
+-> the screen on which user is currently, should be easy to fit, must not  be truncated or shrunken
+
+###
