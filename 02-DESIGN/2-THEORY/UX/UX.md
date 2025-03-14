@@ -9,7 +9,6 @@ cssclasses:
 ---
 %% Begin Waypoint %%
 - [[Design Basics]]
-- [[Motion Design Basics]]
 - [[Product Metrics by DesignPilot]]
 - **Usuability**
 	- [[Usability Heuristics]]

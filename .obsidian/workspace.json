@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
-                "mode": "source",
+                "file": "SPAM/MLH.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motion Design Basics"
+              "title": "MLH"
+            }
+          },
+          {
+            "id": "66fa2b8b171af4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-DESIGN/2-THEORY/UX/UX.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UX"
+            }
+          },
+          {
+            "id": "5bed8061ecf8205f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-DESIGN/2-THEORY/UX/UX.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UX"
+            }
+          },
+          {
+            "id": "c3b87a8b78a641e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Layout Basics"
+            }
+          },
+          {
+            "id": "c1012d391fb8f39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-DESIGN/2-THEORY/UX/UX.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UX"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mot",
+                "query": "motion design basics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,17 +238,27 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2f5625bb7279a3ea",
+  "active": "476371252193b567",
   "lastOpenFiles": [
-    "CT-2 CD Questions.md",
+    "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
+    "02-DESIGN/2-THEORY/UX/UX.md",
+    "SPAM/MLH.md",
+    "02-DESIGN/2-THEORY/Material Design/User Interface/Immersive Content.md",
+    "TEMPLATES/ArticleNote.md",
+    "02-DESIGN/2-THEORY/COURSES/01-AnshMehra's UX/Become faster & Smarter UX designer.md",
+    "SPAM/CT 1 Syllabus.md",
+    "02-DESIGN/2-THEORY/UX/UX Laws/Law of common regions.md",
+    "02-DESIGN/2-THEORY/ARTICLES/Product Strategy.md",
+    "02-DESIGN/2-THEORY/ARTICLES/Medium Article Guide.md",
+    "02-DESIGN/2-THEORY/COURSES/How to write good case study by DesignPilot.md",
+    "CT-2 CD Questions.md",
     "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Overview of M-Accessibility.md",
     "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Designing for M-Accessibility.md",
-    "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
-    "02-DESIGN/2-THEORY/Material Design/User Interface/Immersive Content.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Grids & Units.md",
     "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Writing in M-Accessibility.md",
     "null/null.md",
@@ -206,15 +272,6 @@
     "02-DESIGN/2-THEORY/Material Design/User Interface/Untitled.md",
     "02-DESIGN/UI RESOURCES.md",
     "03-ME/Personal Resources.md",
-    "02-DESIGN/UX RESOURCES.md",
-    "02-DESIGN/2-THEORY/ARTICLES/Bog's Behavioural Model.md",
-    "README.md",
-    "TEMPLATES/TEMPLATES.md",
-    "TEMPLATES/RegularNote.md",
-    "TEMPLATES/IndexNote.md",
-    "TEMPLATES/FolderNote.md",
-    "TEMPLATES/Daily Note.md",
-    "TEMPLATES/CourseNote.md",
     "TEMPLATES",
     "SPAM",
     "09-IMAGES/Pasted image 20250211132912.png",
