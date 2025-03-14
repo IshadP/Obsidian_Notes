@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Overview of M-Accessibility.md",
+                "file": "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of M-Accessibility"
+              "title": "Motion Design Basics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mateial-design",
+                "query": "mot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,19 +161,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "c829807152a53c2e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,11 +181,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "d6f1bc6180bc767d",
+  "active": "2f5625bb7279a3ea",
   "lastOpenFiles": [
+    "CT-2 CD Questions.md",
+    "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
+    "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Overview of M-Accessibility.md",
     "02-DESIGN/2-THEORY/Material Design/M-Accessibility/Designing for M-Accessibility.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Immersive Content.md",
@@ -211,7 +205,6 @@
     "02-DESIGN/2-THEORY/ARTICLES/University-Program.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Untitled.md",
     "02-DESIGN/UI RESOURCES.md",
-    "CT-2 CD Questions.md",
     "03-ME/Personal Resources.md",
     "02-DESIGN/UX RESOURCES.md",
     "02-DESIGN/2-THEORY/ARTICLES/Bog's Behavioural Model.md",
@@ -222,9 +215,7 @@
     "TEMPLATES/FolderNote.md",
     "TEMPLATES/Daily Note.md",
     "TEMPLATES/CourseNote.md",
-    "TEMPLATES/ArticleNote.md",
     "TEMPLATES",
-    "SPAM/Untitled.md",
     "SPAM",
     "09-IMAGES/Pasted image 20250211132912.png",
     "09-IMAGES/Pasted image 20250211101529.png",
