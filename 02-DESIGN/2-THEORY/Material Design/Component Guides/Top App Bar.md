@@ -57,3 +57,10 @@ tags:
 ---
 
 # Accessibility
+
+## Use cases
+-> ==help understand current location in app==, with clear headline
+-> ==take action== or ==navigate==
+-> Select a action from overflow menu
+-> Activate back button
+-> Maintain access to top bar, even when content is scrolled
