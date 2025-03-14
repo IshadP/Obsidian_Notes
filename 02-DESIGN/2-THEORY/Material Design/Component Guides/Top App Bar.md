@@ -36,3 +36,5 @@ tags:
 
 ## Do's and Don't
 1. Top bar is always full width, and edge to edge
+2. Always use default height of top bar
+3. 
