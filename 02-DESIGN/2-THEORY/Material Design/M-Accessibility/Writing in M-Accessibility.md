@@ -6,9 +6,9 @@ cssclasses:
 url: https://m3.material.io/foundations/writing/best-practices
 tags:
   - "#article"
-  - mateial-design
   - accessibility
   - content-writing
+  - Material-Design
 ---
 Accessibility text refers to text that is used by screen reader accessibilty software, to read aloud the on screen text and elements
 

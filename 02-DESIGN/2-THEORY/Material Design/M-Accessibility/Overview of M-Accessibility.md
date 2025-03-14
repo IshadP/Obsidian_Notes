@@ -6,8 +6,8 @@ cssclasses:
 url: https://m3.material.io/foundations/overview/
 tags:
   - "#article"
-  - mateial-design
   - accessibility
+  - Material-Design
 ---
 
 ## Principles

@@ -7,9 +7,9 @@ url: https://developer.android.com/design/ui/mobile/guides/layout-and-content/im
 tags:
   - "#article"
   - "#UI"
-  - mateial-design
   - Layout
   - immersive
+  - Material-Design
 ---
 # Takeaway
 ---

@@ -7,9 +7,9 @@ url: https://developer.android.com/design/ui/mobile/guides/layout-and-content/gr
 tags:
   - "#article"
   - Layout
-  - mateial-design
   - UI
   - Grid
+  - Material-Design
 ---
 # Takeaways
 ---

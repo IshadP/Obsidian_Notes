@@ -6,9 +6,9 @@ cssclasses:
 url: https://m3.material.io/foundations/designing/overview
 tags:
   - "#article"
-  - mateial-design
   - accessibility
   - ux
+  - "#Material-Design"
 ---
 Material framework uses WCAG guidelines for base and best practices
 

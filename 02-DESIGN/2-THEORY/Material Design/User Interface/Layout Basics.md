@@ -7,7 +7,7 @@ tags:
   - "#article"
   - UI
   - Layout
-  - mateial-design
+  - Material-Design
 ---
 # Takeaways
 ---
