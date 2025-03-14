@@ -63,4 +63,14 @@ tags:
 -> ==take action== or ==navigate==
 -> Select a action from overflow menu
 -> Activate back button
--> Maintain access to top bar, even when content is scrolled
+-> ==Maintain access to top bar==, even when content is scrolled
+
+## Interaction & Style
+
+### Touch
+-> tapping on item button => ripple for feedback
+
+### Cursor
+-> hovered => hover state
+-> clicked => ripple
+
