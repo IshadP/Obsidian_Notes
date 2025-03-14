@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/Untitled.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,8 +184,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02-DESIGN/2-THEORY/Material Design/Material Design.md",
     "02-DESIGN/2-THEORY/Material Design/Untitled.md",
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Untitled.md",
+    "02-DESIGN/2-THEORY/Material Design/Component Guides",
+    "02-DESIGN/2-THEORY/Material Design/Material Design.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/ARTICLES/University-Program.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Untitled.md",
@@ -210,7 +212,6 @@
     "SPAM/Spons.md",
     "SPAM/ScratchPad.md",
     "SPAM/NexMeet Page.md",
-    "SPAM/MLH.md",
     "SPAM",
     "09-IMAGES/Pasted image 20250211132912.png",
     "09-IMAGES/Pasted image 20250211101529.png",
@@ -228,7 +229,6 @@
     "02-DESIGN/2-THEORY/UX/WCAG",
     "02-DESIGN/2-THEORY/UX/UX Psychology",
     "02-DESIGN/2-THEORY/UX/UX Laws",
-    "02-DESIGN/2-THEORY/UX/Usuability",
-    "02-DESIGN/2-THEORY/UX"
+    "02-DESIGN/2-THEORY/UX/Usuability"
   ]
 }
