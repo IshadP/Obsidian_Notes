@@ -20,3 +20,8 @@ tags:
 => 4 Types of top bars
 	-> **Center Aligned**: used for app name or page headline
 	-> **Small**: for compact layout and scrolled views
+	-> **Medium**: initial state of small bar before scrolling
+	-> **Large**: used for headlines of page
+
+![Diagram of stacked top app bars, from small to large](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flz75nw5p-3.png?alt=media&token=e722f8ef-c8e0-4a60-8b99-837cf6720452)
+
