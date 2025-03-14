@@ -34,3 +34,5 @@ tags:
 3. Leading Navigation icon
 4. Trailing Navigation icon
 
+## Do's and Don't
+1. Top bar is always full width, and edge to edge
