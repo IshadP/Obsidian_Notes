@@ -8,7 +8,7 @@ cssclasses:
 ---
 %% Begin Waypoint %%
 - **Component Guides**
-	- [[Top App Bar]]r]]
+	- [[Top App Bar]]
 - **M-Accessibility**
 	- [[Designing for M-Accessibility]]
 	- [[Overview of M-Accessibility]]
