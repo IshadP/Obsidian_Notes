@@ -25,3 +25,11 @@ tags:
 
 ![Diagram of stacked top app bars, from small to large](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flz75nw5p-3.png?alt=media&token=e722f8ef-c8e0-4a60-8b99-837cf6720452)
 
+## Anatomy
+
+![Diagram of app bar layout](https://lh3.googleusercontent.com/eIWLocn3amQBJVJDkyk_dUi13j9MsvMm2QFxmTd4-HNOIJoVWFk0oqQ_mQF8JO_1fRdeJns8tQyyoPPqW9RVX_GLjKulUAHw2Ycs9YEZZ3c=s0)
+
+1. Container
+2. Headline
+3. Leading Navigation icon
+4. Trailing Navigation icon
