@@ -1,5 +1,5 @@
 ---
-obsidianUImode: preview
+prefer-view: read
 cssclasses:
   - list-cards
   - cards-cols-2
