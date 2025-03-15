@@ -35,3 +35,8 @@ tags:
 => To avoid obstructions, snackbar should animate in its place vertically.
 
 # Responsive Layout
+
+=> It is optimised for compact and medium windows, **not** recommended for larger windows
+=> Always use the minimum height of bottom bar
+
+## Alignment
