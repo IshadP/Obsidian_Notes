@@ -12,6 +12,15 @@ cssclasses:
   - table-lines
 ---
 
+```cardlink
+url: https://layers.to/explore/trending
+title: "Trending | Layers"
+description: "Share work, connect with other designers, discover jobs and get hired."
+host: layers.to
+favicon: https://layers.to/build/favicon.ico
+image: https://layers.to/build/images/meta.jpg
+```
+
 # Logo
 
 ```cardlink

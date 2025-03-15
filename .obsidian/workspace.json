@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Index.md",
+                "file": "02-DESIGN/UI RESOURCES.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Index"
+              "title": "UI RESOURCES"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "b7ecf7f366a81adc",
   "lastOpenFiles": [
+    "World Index.md",
     "02-DESIGN/2-THEORY/UX/UX Laws/Cognitive Load.md",
     "02-DESIGN/2-THEORY/UX/UX Laws/Flow State.md",
     "SPAM/Spons.md",
     "03-ME/2024-08-28.md",
     "02-DESIGN/2-THEORY/COURSES/COURSES.md",
     "SPAM/GDGC Meet 5-02-25.md",
-    "World Index.md",
     "02-DESIGN/2-THEORY/UX/UX.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
