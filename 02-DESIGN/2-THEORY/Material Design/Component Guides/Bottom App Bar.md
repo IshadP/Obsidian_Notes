@@ -17,4 +17,12 @@ tags:
 -> shouldn't be used for screen with one or less actions or headings
 -> For any destructive action in bottom bar, a snack bar should accompany the action
 -> **Bottom bars are not navigation bars**
--> 
+
+# Anatomy
+
+![Diagram of bottom app bar indicating the 4 parts of its anatomy](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flw1ue6ek-9.png?alt=media&token=4815c919-195e-4db7-8eb0-48f9202b47cf)
+
+1. **Container**: contains all elements
+2. **FAB**:
+3. **Icon Button**:
+4. **Icon button for overflow menu**:
