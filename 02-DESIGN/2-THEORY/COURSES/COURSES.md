@@ -10,5 +10,6 @@ cssclasses:
 - **01-AnshMehra's UX**
 	- [[Become faster & Smarter UX designer]]
 - [[How to write good case study by DesignPilot]]
+- **UXdesign.cc**
 
 %% End Waypoint %%
