@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e79c88e97785bd37",
+        "id": "d62adbd6c889087e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f1bc6180bc767d",
+            "id": "0b7a098dddc17255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/MLH.md",
+                "file": "World Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLH"
-            }
-          },
-          {
-            "id": "66fa2b8b171af4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-DESIGN/2-THEORY/UX/UX.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UX"
-            }
-          },
-          {
-            "id": "5bed8061ecf8205f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-DESIGN/2-THEORY/UX/UX.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UX"
-            }
-          },
-          {
-            "id": "c3b87a8b78a641e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layout Basics"
-            }
-          },
-          {
-            "id": "c1012d391fb8f39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-DESIGN/2-THEORY/UX/UX.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UX"
+              "title": "World Index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,16 +180,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "random-note:Open random note": false,
-      "smart-random-note:Open Random Note from Search": false
+      "random-note:Open random note": false
     }
   },
-  "active": "476371252193b567",
+  "active": "0b7a098dddc17255",
   "lastOpenFiles": [
+    "02-DESIGN/2-THEORY/UX/UX.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
-    "02-DESIGN/2-THEORY/UX/UX.md",
     "SPAM/MLH.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Immersive Content.md",
     "TEMPLATES/ArticleNote.md",
