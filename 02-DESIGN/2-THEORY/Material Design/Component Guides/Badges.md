@@ -29,3 +29,15 @@ tags:
 
 ## Placement
 => Use large badge when visual collision is not a issue
+=> Place badge at ending edge
+
+---
+
+# Accessibility
+
+## Use cases
+=> convey dynamic information by badges such as counts and labels
+=> Address badge annoucment
+
+## Visual Indicator
+=> Color must stand out from all other elements( 3:1 ratio atleast)
