@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/Document Guidelines.md",
+                "file": "SPAM/Spons.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document Guidelines"
+              "title": "Spons"
             }
           }
         ],
@@ -212,12 +212,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "be2a8846a450ddd5",
+  "active": "476371252193b567",
   "lastOpenFiles": [
+    "SPAM/ScratchPad.md",
+    "SPAM/NexMeet Page.md",
+    "SPAM/MLH.md",
+    "SPAM/MINI Project.md",
+    "SPAM/Matches.md",
+    "SPAM/jfldja.md",
+    "SPAM/Hackathon details.md",
+    "SPAM/GDGC Meet 5-02-25.md",
+    "SPAM/GDGC Brandd Guide.md",
+    "SPAM/Fake new.md",
+    "SPAM/Email.md",
+    "SPAM/Document Guidelines.md",
     "SPAM/Design Sprint at GDGC.md",
     "SPAM/CRT.md",
     "SPAM/CT 1 Syllabus.md",
-    "SPAM/MLH.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Bottom App Bar.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Top App Bar.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
@@ -229,17 +240,6 @@
     "03-ME/2024-08-04.md",
     "03-ME/2024-07-09.md",
     "02-DESIGN/UX RESOURCES.md",
-    "02-DESIGN/UI RESOURCES.md",
-    "02-DESIGN/2-THEORY/UX/UX Laws/Cognitive Load.md",
-    "02-DESIGN/2-THEORY/UX/UX Laws/Flow State.md",
-    "SPAM/Spons.md",
-    "03-ME/2024-08-28.md",
-    "02-DESIGN/2-THEORY/COURSES/COURSES.md",
-    "SPAM/GDGC Meet 5-02-25.md",
-    "02-DESIGN/2-THEORY/UX/UX.md",
-    "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
-    "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
-    "02-DESIGN/2-THEORY/Material Design/User Interface/Immersive Content.md",
     "null",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
     "TEMPLATES",
