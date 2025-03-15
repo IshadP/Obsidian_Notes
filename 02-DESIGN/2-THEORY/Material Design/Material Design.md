@@ -8,6 +8,7 @@ cssclasses:
 ---
 %% Begin Waypoint %%
 - **Component Guides**
+	- [[Badges]]
 	- [[Bottom App Bar]]
 	- [[Top App Bar]]
 - **M-Accessibility**
