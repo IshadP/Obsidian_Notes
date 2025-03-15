@@ -30,3 +30,6 @@ tags:
 # Placement
 ## With top bar
 => top bar can provide navigation and actions can be organised in bottom bar
+
+## With snack bar
+=> To avoid obstructions, snackbar should animate in its place vertically.
