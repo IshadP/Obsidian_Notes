@@ -33,3 +33,5 @@ tags:
 
 ## With snack bar
 => To avoid obstructions, snackbar should animate in its place vertically.
+
+# Responsive Layout
