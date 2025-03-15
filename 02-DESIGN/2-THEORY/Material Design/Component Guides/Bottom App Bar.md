@@ -23,6 +23,6 @@ tags:
 ![Diagram of bottom app bar indicating the 4 parts of its anatomy](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flw1ue6ek-9.png?alt=media&token=4815c919-195e-4db7-8eb0-48f9202b47cf)
 
 1. **Container**: contains all elements
-2. **FAB**:
-3. **Icon Button**:
+2. **FAB**: It is displayed within bottom bars
+3. **Icon Button**: 
 4. **Icon button for overflow menu**:
