@@ -14,4 +14,14 @@ Q. What is design for you? What are 3 reasons why you want to become a designer?
 I want to be designer because:
 1. curiosity of how things are made to be so easy to use
 2. I am inspired by great designed products
-3. 
+3. Design helps people
+
+Spotify, Apple, IKEA.
+
+
+Q. What are your top 3 questions and uncertainties at this point in your career?
+
+1. How can move past this "self taught" stage to a full on designer?
+2. How does design process actually look like in detail?
+3. What is my own design process that is suited to me & how do I find it?
+
