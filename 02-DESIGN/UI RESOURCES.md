@@ -61,6 +61,16 @@ image: https://coolshap.es/preview.jpg?v1
 
 # Colors
 
+
+```cardlink
+url: https://picular.co
+title: "Picular"
+description: "Picular is a rocket fast primary color generator using Google’s image search. If you ever needed the perfect yellow hex code from a banana, this is the tool for you."
+host: picular.co
+image: https://picular.co/ogimage.jpg
+```
+
+
 ```cardlink
 url: https://colors-visualizer.vercel.app/
 title: "Colors Palette Visualizer"
