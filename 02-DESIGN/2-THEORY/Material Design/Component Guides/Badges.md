@@ -19,4 +19,10 @@ tags:
 	![A small badge is a circle with no characters](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flvm8amkb-3.png?alt=media&token=42b84faa-1724-42aa-b04f-82b46d8e01c7)
 	![A large badge holds four characters and expands its container's width but not height.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flvm8bywc-4.png?alt=media&token=c96d83b5-a828-4c5f-b1fe-cb80ee0eb9ed)
 
+## Anatomy
 
+![Small and large badges on 2 icon buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flvm8fkil-7.png?alt=media&token=3f431e5e-5e88-41bd-bbcd-052f2e6202fd)
+
+1. **Small Badge**
+2. **Large Badge container**
+3. **Large badge label**
