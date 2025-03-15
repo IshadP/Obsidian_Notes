@@ -13,4 +13,4 @@ tags:
 # Guidelines
 ## Usage
 -> They provide upto 4 actions buttons and a [[FAB]]
--> 
+-> should only be used on mobile devices
