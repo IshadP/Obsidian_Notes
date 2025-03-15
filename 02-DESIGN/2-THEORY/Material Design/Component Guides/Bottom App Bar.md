@@ -40,3 +40,12 @@ tags:
 => Always use the minimum height of bottom bar
 
 ## Alignment
+
+=> FAB should be aligned to trailing edge
+=> Secondary actions should be aligned to leading edge
+
+# Behaviour
+
+## Scrolling
+=> Scrolling downwards hides bottom bar
+=> Scrolling upwards reveals bottom bar
