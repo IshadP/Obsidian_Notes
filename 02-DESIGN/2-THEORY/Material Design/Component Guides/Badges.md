@@ -37,7 +37,7 @@ tags:
 
 ## Use cases
 => convey dynamic information by badges such as counts and labels
-=> Address badge annoucment
+=> Address badge announcement
 
 ## Visual Indicator
 => Color must stand out from all other elements( 3:1 ratio atleast)
