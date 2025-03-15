@@ -11,5 +11,6 @@ cssclasses:
 	- [[Become faster & Smarter UX designer]]
 - [[How to write good case study by DesignPilot]]
 - **UXdesign.cc**
+	- [[Some Questions to answer]]
 
 %% End Waypoint %%
