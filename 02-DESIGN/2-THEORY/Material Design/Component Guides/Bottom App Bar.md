@@ -24,5 +24,7 @@ tags:
 
 1. **Container**: contains all elements
 2. **FAB**: It is displayed within bottom bars
-3. **Icon Button**: 
-4. **Icon button for overflow menu**:
+3. **Icon Button**: It can hold upto 4 icon buttons
+4. **Icon button for overflow menu**
+
+# Placement
