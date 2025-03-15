@@ -26,3 +26,6 @@ tags:
 1. **Small Badge**
 2. **Large Badge container**
 3. **Large badge label**
+
+## Placement
+=> Use large badge when visual collision is not a issue
