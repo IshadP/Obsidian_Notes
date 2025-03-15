@@ -11,3 +11,5 @@ Q. What is design for you? What are 3 reasons why you want to become a designer?
 
 -> Design is a process to help a product better serve its purpose, modify a product to better serve its purpose.
 
+I want to be designer because:
+1. 
