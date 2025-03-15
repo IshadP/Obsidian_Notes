@@ -28,3 +28,5 @@ tags:
 4. **Icon button for overflow menu**
 
 # Placement
+## With top bar
+=> top bar can provide navigation and actions can be organised in bottom bar
