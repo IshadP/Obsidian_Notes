@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d62adbd6c889087e",
+        "id": "135bfc5def882a45",
         "type": "tabs",
         "children": [
           {
-            "id": "0b7a098dddc17255",
+            "id": "b7ecf7f366a81adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,8 +183,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0b7a098dddc17255",
+  "active": "b7ecf7f366a81adc",
   "lastOpenFiles": [
+    "02-DESIGN/2-THEORY/UX/UX Laws/Cognitive Load.md",
+    "02-DESIGN/2-THEORY/UX/UX Laws/Flow State.md",
+    "SPAM/Spons.md",
+    "03-ME/2024-08-28.md",
+    "02-DESIGN/2-THEORY/COURSES/COURSES.md",
+    "SPAM/GDGC Meet 5-02-25.md",
+    "World Index.md",
     "02-DESIGN/2-THEORY/UX/UX.md",
     "02-DESIGN/2-THEORY/Material Design/User Interface/Layout Basics.md",
     "02-DESIGN/2-THEORY/UX/Motion Design Basics.md",
@@ -205,14 +212,7 @@
     "null/null.md",
     "null",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Top App Bar.md",
-    "02-DESIGN/2-THEORY/Material Design/Material Design.md",
-    "World Index.md",
-    "02-DESIGN/2-THEORY/Material Design/Untitled.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
-    "02-DESIGN/2-THEORY/ARTICLES/University-Program.md",
-    "02-DESIGN/2-THEORY/Material Design/User Interface/Untitled.md",
-    "02-DESIGN/UI RESOURCES.md",
-    "03-ME/Personal Resources.md",
     "TEMPLATES",
     "SPAM",
     "09-IMAGES/Pasted image 20250211132912.png",
