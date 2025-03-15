@@ -25,3 +25,6 @@ Q. What are your top 3 questions and uncertainties at this point in your career?
 2. How does design process actually look like in detail?
 3. What is my own design process that is suited to me & how do I find it?
 
+Q. What impact do you want the products you design to have on the world around you? What are some behaviors you want your product to enable — on the individuals who use the product, in your community, or in society at large?
+
+-> A product developed by me should be sustainable but able to serve its purpose all round, so it can help people tackle a problem which they are facing without it.
