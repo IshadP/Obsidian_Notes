@@ -15,3 +15,6 @@ tags:
 -> They provide upto 4 actions buttons and a [[FAB]]
 -> should only be used on mobile devices
 -> shouldn't be used for screen with one or less actions or headings
+-> For any destructive action in bottom bar, a snack bar should accompany the action
+-> **Bottom bars are not navigation bars**
+-> 
