@@ -13,3 +13,7 @@
 3. ⁠Explain k-mediods clustering techniques with suitable example. 
 4. ⁠Explain logistic regression with suitable example. 
 5. ⁠What is ensemble learning techniques? Explain different techniques of Ensemble learning.
+
+---
+
+![[1_j_R4Riw4gnuJ3p1l2xzruQ.png]]
