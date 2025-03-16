@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SPAM/ML Assignment.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,7 +183,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "476371252193b567",
+  "active": "55d6b6b6cd596553",
   "lastOpenFiles": [
     "SPAM/College Pickup.md",
     "SPAM/CRT.md",
