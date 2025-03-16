@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "SPAM"
 }
