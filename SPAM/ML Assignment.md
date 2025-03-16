@@ -9,8 +9,8 @@
 
 ~~*Assignment 2*~~
 1. ~~Differentiate between partitional and hierarchical clustering.~~ 
-2. ⁠Explain APRIORI algorithm with suitable example. 
-3. ⁠Explain k-mediods clustering techniques with suitable example. 
+2. ~~⁠Explain APRIORI algorithm with suitable example.~~ 
+3. ~~⁠Explain k-mediods clustering techniques with suitable exampl~~e. 
 4. ⁠Explain logistic regression with suitable example. 
 5. ⁠What is ensemble learning techniques? Explain different techniques of Ensemble learning.
 
