@@ -3,5 +3,6 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
-  "newFileFolderPath": "SPAM"
+  "newFileFolderPath": "SPAM",
+  "attachmentFolderPath": "09-IMAGES"
 }
