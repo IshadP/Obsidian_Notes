@@ -37,3 +37,4 @@ Similarly styled components shouldn’t be used together if they have contrast l
 ![[Pasted image 20250326115906.png]]
 
 ## Labeling Elements
+The accessibility label for a button ideally comes from the visible label text on the button
