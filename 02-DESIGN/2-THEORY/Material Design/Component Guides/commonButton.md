@@ -17,6 +17,6 @@ tags:
 
 ![[Pasted image 20250326115146.png]]
 
-1. Label text
-2. Container
-3. Icon
+1. **Label text** : Describes the action button takes 
+2. **Container** :  
+3. **Icon**
