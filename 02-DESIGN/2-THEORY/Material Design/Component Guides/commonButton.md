@@ -32,4 +32,6 @@ tags:
 ---
 
 ## Accessibility
+Similarly styled components shouldn’t be used together if they have contrast less than 3:1.
 
+![[Pasted image 20250326115906.png]]
