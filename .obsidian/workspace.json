@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/commonButton.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commonButton"
+              "title": "Common Button"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -201,12 +200,13 @@
   },
   "active": "204e6a8a391f1772",
   "lastOpenFiles": [
+    "02-DESIGN/02-DESIGN.md",
+    "World Index.md",
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
     "09-IMAGES/Pasted image 20250326115906.png",
     "09-IMAGES/Pasted image 20250326115804.png",
     "09-IMAGES/Pasted image 20250326115146.png",
     "09-IMAGES/Pasted image 20250326115120.png",
-    "World Index.md",
-    "02-DESIGN/2-THEORY/Material Design/Component Guides/commonButton.md",
     "SPAM/ML Assignment.md",
     "09-IMAGES/1_j_R4Riw4gnuJ3p1l2xzruQ.png",
     "SPAM/College Pickup.md",
@@ -241,7 +241,6 @@
     "09-IMAGES/Pasted image 20250211100821.png",
     "09-IMAGES/Pasted image 20250211095942.png",
     "09-IMAGES/Pasted image 20250211095106.png",
-    "09-IMAGES/Pasted image 20250211095052.png",
     "09-IMAGES",
     "03-ME",
     "02-DESIGN/ZZZ-ARCHIVE",

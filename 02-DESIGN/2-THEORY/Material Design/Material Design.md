@@ -10,7 +10,7 @@ cssclasses:
 - **Component Guides**
 	- [[Badges]]
 	- [[Bottom App Bar]]
-	- [[commonButton]]
+	- [[Common Button]]
 	- [[Top App Bar]]
 - **M-Accessibility**
 	- [[Designing for M-Accessibility]]
