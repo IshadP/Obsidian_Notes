@@ -11,3 +11,12 @@ tags:
 ## Usage
 => Communicates action that can be taken by user
 
+![[Pasted image 20250326115120.png]]
+
+## Anatomy
+
+![[Pasted image 20250326115146.png]]
+
+1. Label text
+2. Container
+3. Icon
