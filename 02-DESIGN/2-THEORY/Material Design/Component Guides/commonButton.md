@@ -22,5 +22,7 @@ tags:
 3. **Icon** : Visually communicate button's action
 
 ## Elevated Buttons
-=> provides tonal visual seperation
+=> provides tonal visual separation
 
+## Filled Buttons
+=> provides most visually impacting buttons
