@@ -28,3 +28,8 @@ tags:
 => provides most visually impacting buttons
 
 ![[Pasted image 20250326115804.png]]
+
+---
+
+## Accessibility
+
