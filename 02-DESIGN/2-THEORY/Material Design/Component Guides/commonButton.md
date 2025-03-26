@@ -8,3 +8,6 @@ tags:
   - "#article"
 ---
 # Guidelines
+## Usage
+=> Communicates action that can be taken by user
+
