@@ -4,5 +4,11 @@
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
   "newFileFolderPath": "SPAM",
-  "attachmentFolderPath": "09-IMAGES"
+  "attachmentFolderPath": "09-IMAGES",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

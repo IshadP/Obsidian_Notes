@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/8.md",
+                "file": "SPAM/7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8"
+              "title": "7"
             }
           }
         ],
@@ -256,6 +256,8 @@
   },
   "active": "ba5875ab15df21fe",
   "lastOpenFiles": [
+    "09-IMAGES/HW7-1.jpg",
+    "SPAM/8.md",
     "SPAM/9.md",
     "SPAM/10.md",
     "09-IMAGES/HW10-3.jpg",
@@ -263,7 +265,6 @@
     "09-IMAGES/HW10-1.jpg",
     "09-IMAGES/HW9-2.jpg",
     "09-IMAGES/HW9-1.jpg",
-    "SPAM/8.md",
     "09-IMAGES/HW8-2.jpg",
     "09-IMAGES/HW8-1.jpg",
     "SPAM/6.md",
