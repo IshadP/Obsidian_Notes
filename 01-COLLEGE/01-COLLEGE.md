@@ -14,7 +14,7 @@ tags:
 	- **SEM 6**
 		- **PS**
 			- [[1]]
-			- [[2]]
+			- [[01-COLLEGE/1-STUDIES/SEM 6/PS/2]]
 			- [[3]]
 - **2-CLUBS**
 - **3-SPORTS**
