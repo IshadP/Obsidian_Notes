@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/7.md",
+                "file": "SPAM/6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7"
+              "title": "6"
             }
           }
         ],
@@ -256,8 +256,11 @@
   },
   "active": "ba5875ab15df21fe",
   "lastOpenFiles": [
-    "SPAM/8.md",
+    "09-IMAGES/HW6-3.jpg",
+    "09-IMAGES/HW6-1.jpg",
+    "09-IMAGES/HW6-2.jpg",
     "SPAM/7.md",
+    "SPAM/8.md",
     "09-IMAGES/HW7-2.jpg",
     "SPAM/5.md",
     "SPAM/6.md",
@@ -274,8 +277,6 @@
     "09-IMAGES/HW4-2.jpg",
     "World Index.md",
     "09-IMAGES/IMG20250328134434.jpg",
-    "09-IMAGES/IMG20250328134430.jpg",
-    "09-IMAGES/HW3-1.jpg",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
     "02-DESIGN/02-DESIGN.md",
     "SPAM/ML Assignment.md",
