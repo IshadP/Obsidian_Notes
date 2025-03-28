@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a295cdf8d18694c",
+        "id": "44ce403fdb5e0c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "37aaf8a7f4984645",
+            "id": "ea5addd8f07b3c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "204e6a8a391f1772",
+            "id": "65f9d7612430eabb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
+                "file": "SPAM/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Button"
+              "title": "Untitled"
             }
           }
         ],
@@ -198,11 +198,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "204e6a8a391f1772",
+  "active": "65f9d7612430eabb",
   "lastOpenFiles": [
-    "02-DESIGN/02-DESIGN.md",
     "World Index.md",
+    "SPAM/Untitled.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
+    "02-DESIGN/02-DESIGN.md",
     "09-IMAGES/Pasted image 20250326115906.png",
     "09-IMAGES/Pasted image 20250326115804.png",
     "09-IMAGES/Pasted image 20250326115146.png",
@@ -231,7 +232,6 @@
     "SPAM/NexMeet Page.md",
     "SPAM/MLH.md",
     "SPAM/MINI Project.md",
-    "SPAM/Matches.md",
     "null",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
     "TEMPLATES",
