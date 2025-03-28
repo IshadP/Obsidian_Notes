@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44ce403fdb5e0c5a",
+        "id": "e1057ce9800e761e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5addd8f07b3c9c",
+            "id": "9e25c49e6fd283a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "World Index"
             }
-          },
-          {
-            "id": "65f9d7612430eabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPAM/2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2"
-            }
-          },
-          {
-            "id": "16a2579920b6bda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPAM/3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3"
-            }
-          },
-          {
-            "id": "dca59ab70661bd1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPAM/4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4"
-            }
-          },
-          {
-            "id": "ef43ff78aced48f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPAM/5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +183,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ef43ff78aced48f8",
+  "active": "9e25c49e6fd283a2",
   "lastOpenFiles": [
-    "SPAM/4.md",
     "SPAM/5.md",
+    "SPAM/4.md",
     "09-IMAGES/IMG20250328134434.jpg",
     "09-IMAGES/IMG20250328134430.jpg",
     "SPAM/3.md",
