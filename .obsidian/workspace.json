@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eff0bbdb20888244",
+        "id": "3e0eb20190c30220",
         "type": "tabs",
         "children": [
           {
-            "id": "cdbf62a58fe17234",
+            "id": "1f96918c63336e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "World Index"
             }
-          },
-          {
-            "id": "fa5a16f4a8f024b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPAM/Mini Project Diagram Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mini Project Diagram Questions"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +186,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fa5a16f4a8f024b5",
+  "active": "1f96918c63336e4d",
   "lastOpenFiles": [
-    "World Index.md",
     "SPAM/Mini Project Diagram Questions.md",
+    "World Index.md",
     "SPAM/1.md",
     "SPAM/2.md",
     "09-IMAGES/IMG20250328151158.jpg",
