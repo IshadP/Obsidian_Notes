@@ -22,3 +22,5 @@ description: "The Art of Manliness provides useful, actionable, no-fluff content
 host: www.artofmanliness.com
 favicon: https://www.artofmanliness.com/wp-content/themes/aom/assets/img/icon.png
 ```
+
+[Fetching Data#bx9h](https://chi2025.acm.org/for-authors/student-design-competition)
