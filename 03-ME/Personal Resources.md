@@ -23,4 +23,14 @@ host: www.artofmanliness.com
 favicon: https://www.artofmanliness.com/wp-content/themes/aom/assets/img/icon.png
 ```
 
-[Fetching Data#bx9h](https://chi2025.acm.org/for-authors/student-design-competition)
+## Competitions
+
+```cardlink
+url: https://chi2025.acm.org/for-authors/student-design-competition
+title: "CHI 2025 Yokohama, Japan"
+description: "CHI 2025 Yokohama, Japan"
+host: chi2025.acm.org
+favicon: https://chi2025.acm.org/wp-content/uploads/2024/06/cropped-chi2025_icon-32x32.png
+image: https://chi2025.acm.org/og.jpg
+```
+
