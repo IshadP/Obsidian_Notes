@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/StoryTelling.md",
+                "file": "02-DESIGN/2-THEORY/StoryTelling How to.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StoryTelling"
+              "title": "StoryTelling How to"
             }
           }
         ],
@@ -217,8 +217,9 @@
   },
   "active": "cb006eb84b965c0f",
   "lastOpenFiles": [
+    "09-IMAGES/image.png",
     "02-DESIGN/UX RESOURCES.md",
-    "SPAM/StoryTelling.md",
+    "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "World Index.md",
     "03-ME/Personal Resources.md",
     "SPAM/Mini Project Diagram Questions.md",
@@ -252,7 +253,6 @@
     "SPAM/GDGC Brandd Guide.md",
     "SPAM/Things to buy.md",
     "SPAM/ScratchPad.md",
-    "02-DESIGN/2-THEORY/COURSES/UXdesign.cc/Some Questions to answer.md",
     "02-DESIGN/2-THEORY/COURSES/UXdesign.cc",
     "null",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
