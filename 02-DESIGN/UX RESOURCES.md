@@ -137,3 +137,14 @@ url: https://www.greendesign.io/
 title: "Green Design"
 host: www.greendesign.io
 ```
+
+# Service Design
+
+
+```cardlink
+url: https://www.thisisservicedesigndoing.com/methods
+title: "Method Library — This is Service Design Doing"
+description: "Make use of our full-length method descriptions, organised in an extensive library of 54 methods. Read the texts online, or download your own pdf."
+host: www.thisisservicedesigndoing.com
+image: https://cdn.prod.website-files.com/5989fc3322e8860001ac9a43/5a61c5a9d70c030001b4ad12_tisdd_opengraph_methods.png
+```

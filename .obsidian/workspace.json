@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-DESIGN/UX RESOURCES.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,8 +49,7 @@
               "title": "Personal Resources"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5be88dd39aca37d4",
+  "active": "e43d22a04a445211",
   "lastOpenFiles": [
+    "03-ME/Personal Resources.md",
     "World Index.md",
     "02-DESIGN/UX RESOURCES.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "09-IMAGES/image.png",
-    "03-ME/Personal Resources.md",
     "SPAM/Mini Project Diagram Questions.md",
     "SPAM/1.md",
     "SPAM/2.md",
