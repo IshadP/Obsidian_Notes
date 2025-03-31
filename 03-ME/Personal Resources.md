@@ -23,7 +23,7 @@ host: www.artofmanliness.com
 favicon: https://www.artofmanliness.com/wp-content/themes/aom/assets/img/icon.png
 ```
 
-## Competitions
+# Competitions
 
 ```cardlink
 url: https://chi2025.acm.org/for-authors/student-design-competition
@@ -42,3 +42,12 @@ host: chi2026.acm.org
 favicon: https://chi2026.acm.org/wordpress/wp-content/uploads/2024/09/logo-extra_1.png
 ```
 
+# How to work
+
+
+```cardlink
+url: https://www.collaborationsuperpowers.com/resources-in-progress/
+title: "Resources in-progress - Collaboration Superpowers"
+host: www.collaborationsuperpowers.com
+favicon: https://149353570.v2.pressablecdn.com/wp-content/uploads/2020/09/cropped-favicon-blue-32x32.png
+```
