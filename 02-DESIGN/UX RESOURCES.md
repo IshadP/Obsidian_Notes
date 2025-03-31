@@ -130,3 +130,10 @@ host: shakuro.com
 favicon: https://shakuro.com/favicon-32x32.png
 image: https://shakuro.com/logo-social.jpg
 ```
+
+
+```cardlink
+url: https://www.greendesign.io/
+title: "Green Design"
+host: www.greendesign.io
+```
