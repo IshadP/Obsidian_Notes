@@ -160,6 +160,16 @@ title: "Green Design"
 host: www.greendesign.io
 ```
 
+
+```cardlink
+url: https://uxwritinghub.com/blog/
+title: "The UX Writing Hub's Blog | Best UX Writing Resource"
+description: "Join 15.2K subscribers and keep up with the latest developments in the evolving industry of UX writing. Follow our UX Writing blog and newsletter."
+host: uxwritinghub.com
+favicon: https://uxwritinghub.com/wp-content/uploads/2018/10/cropped-fb-profile-32x32.png
+image: https://uxwritinghub.com/wp-content/uploads/2018/10/left-handed-man-writing-sitting-on-the-floor-PVJJME5.jpg
+```
+
 # Service Design
 
 
