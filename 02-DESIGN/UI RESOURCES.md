@@ -120,6 +120,15 @@ favicon: https://www.magicpattern.design/static/favicons/favicon-32x32.png
 image: https://storage.googleapis.com/brandflow-bucket/magipattern/og-images/og-image.jpg
 ```
 
+
+```cardlink
+url: https://uiplaybook.dev/
+title: "UI Playbook"
+description: "The documented collection of UI components."
+host: uiplaybook.dev
+image: https://uiplaybook.dev/static/og.png
+```
+
 # Fonts
 
 ```cardlink

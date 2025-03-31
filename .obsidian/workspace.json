@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Index.md",
-                "mode": "preview",
+                "file": "02-DESIGN/UI RESOURCES.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Index"
+              "title": "UI RESOURCES"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Personal Resources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +215,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e43d22a04a445211",
+  "active": "294f321aaef1f953",
   "lastOpenFiles": [
-    "03-ME/Personal Resources.md",
     "World Index.md",
     "02-DESIGN/UX RESOURCES.md",
+    "03-ME/Personal Resources.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "09-IMAGES/image.png",
     "SPAM/Mini Project Diagram Questions.md",
