@@ -23,6 +23,16 @@ favicon: https://d1r3w4d5z5a88i.cloudfront.net/assets/favicon-55f0a1f7a6dd3b9dac
 ```
 
 
+```cardlink
+url: https://dschool.stanford.edu/innovate/tools
+title: "Tools"
+description: "Design tools for whatever challenge you’re working on."
+host: dschool.stanford.edu
+favicon: https://dschool.stanford.edu/dist/images/favicon.png
+image: https://dschool.sfo3.digitaloceanspaces.com/transforms/resources/_1200x630_crop_center-center_82_none/dArtifacts_0517_PatrickBeaudouin-113.jpg?mtime=1741186825
+```
+
+
 # Research:
 
 ```cardlink
