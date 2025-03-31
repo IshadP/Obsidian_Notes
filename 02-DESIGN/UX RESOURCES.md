@@ -11,6 +11,18 @@ cssclasses:
   - row-alt
   - table-lines
 ---
+# Design Thinking
+
+
+```cardlink
+url: https://www.designkit.org/methods.html
+title: "Design Kit"
+description: "Design Kit is IDEO.org's platform to learn human-centered design, a creative approach to solving the world's most difficult problems."
+host: www.designkit.org
+favicon: https://d1r3w4d5z5a88i.cloudfront.net/assets/favicon-55f0a1f7a6dd3b9dac4573e2d9c8dba9.ico
+```
+
+
 # Research:
 
 ```cardlink
