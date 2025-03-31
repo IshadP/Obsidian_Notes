@@ -34,3 +34,11 @@ favicon: https://chi2025.acm.org/wp-content/uploads/2024/06/cropped-chi2025_icon
 image: https://chi2025.acm.org/og.jpg
 ```
 
+
+```cardlink
+url: https://chi2026.acm.org/
+title: "ACM CHI 2026 – Barcelona • April 13–17, 2026"
+host: chi2026.acm.org
+favicon: https://chi2026.acm.org/wordpress/wp-content/uploads/2024/09/logo-extra_1.png
+```
+
