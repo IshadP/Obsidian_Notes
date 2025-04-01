@@ -40,34 +40,6 @@ plt.legend()
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.show()
 
-fig, axs = plt.subplots(2, 3, figsize=(15, 10))
-axs = axs.flatten()
-
-cluster_range = [2, 3, 4, 5, 6, 7]
-
-for i, k in enumerate(cluster_range):
-    kmeans = KMeans(n_clusters=k, random_state=42)
-    labels = kmeans.fit_predict(X)
-    centers = kmeans.cluster_centers_
-    
-    for j in range(k):
-        cluster_points = X[labels == j]
-        axs[i].scatter(cluster_points[:, 0], cluster_points[:, 1], 
-                     c=colors[j], label=f'Cluster {j}', alpha=0.7)
-        
-        axs[i].scatter(centers[j, 0], centers[j, 1], 
-                     marker='*', s=200, c='black', edgecolor=colors[j], linewidth=2)
-    
-    silhouette = silhouette_score(X, labels)
-    axs[i].set_title(f'K={k}, Silhouette={silhouette:.3f}')
-    axs[i].grid(True, linestyle='--', alpha=0.7)
-    
-    if i == 0:
-        axs[i].legend(loc='best', fontsize='small')
-
-plt.tight_layout()
-plt.suptitle('K-means Clustering with Different Numbers of Clusters', y=1.02, fontsize=16)
-plt.show()
 ```
 
 ![[Figure_1.png]]
