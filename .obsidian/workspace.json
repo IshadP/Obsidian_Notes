@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "PS-9"
             }
+          },
+          {
+            "id": "75a03e2149ad0d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPAM/PS-7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PS-7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,10 +243,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "476371252193b567",
+  "active": "75a03e2149ad0d83",
   "lastOpenFiles": [
-    "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-8.md",
+    "09-IMAGES/image-3.png",
     "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-9.md",
+    "SPAM/PS-7.md",
+    "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-8.md",
     "09-IMAGES/Figure_3.png",
     "09-IMAGES/Figure_2.png",
     "09-IMAGES/image-2.png",
@@ -265,7 +281,6 @@
     "SPAM/College Pickup.md",
     "SPAM/CRT.md",
     "SPAM/Document Guidelines.md",
-    "SPAM/Email.md",
     "02-DESIGN/2-THEORY/COURSES/UXdesign.cc",
     "null",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
