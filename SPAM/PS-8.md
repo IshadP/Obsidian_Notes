@@ -70,3 +70,5 @@ plt.suptitle('K-means Clustering with Different Numbers of Clusters', y=1.02, fo
 plt.show()
 ```
 
+![[Figure_1.png]]
+
