@@ -85,6 +85,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-
+![[Figure_3.png]]![[Figure_2.png]]
 
 ![[image-2.png]]
