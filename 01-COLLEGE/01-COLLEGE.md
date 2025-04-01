@@ -13,9 +13,11 @@ tags:
 	- [[Reference PPTs]]
 	- **SEM 6**
 		- **PS**
-			- [[01-COLLEGE/1-STUDIES/SEM 6/PS/1]]
-			- [[01-COLLEGE/1-STUDIES/SEM 6/PS/2]]
-			- [[01-COLLEGE/1-STUDIES/SEM 6/PS/3]]
+			- [[1]]
+			- [[2]]
+			- [[3]]
+			- [[PS-8]]
+			- [[PS-9]]
 - **2-CLUBS**
 - **3-SPORTS**
 - **999-ARCHIVE**
