@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/PS-7.md",
+                "file": "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-7.md",
                 "mode": "source",
                 "source": false
               },
@@ -243,11 +243,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "75a03e2149ad0d83",
+  "active": "476371252193b567",
   "lastOpenFiles": [
+    "09-IMAGES/Figure_2-1.png",
+    "09-IMAGES/Figure_1-1.png",
     "09-IMAGES/image-3.png",
     "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-9.md",
-    "SPAM/PS-7.md",
+    "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-7.md",
     "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-8.md",
     "09-IMAGES/Figure_3.png",
     "09-IMAGES/Figure_2.png",
@@ -270,11 +272,9 @@
     "SPAM/5.md",
     "SPAM/6.md",
     "SPAM/7.md",
-    "09-IMAGES/HW7-1.jpg",
     "SPAM/8.md",
     "SPAM/9.md",
     "SPAM/10.md",
-    "09-IMAGES/HW10-3.jpg",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Common Button.md",
     "02-DESIGN/02-DESIGN.md",
     "SPAM/ML Assignment.md",
