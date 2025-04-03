@@ -15,4 +15,4 @@ CourseNo.: "1"
 	-> You want your product to fill a gap in the market or solve a problem better than existing products. Completing research into both your competitors and your users helps determine what problems need to be addressed by the product’s design.
 
 # Define
--> 
+-> The goal is to figure out the specifications for the product by answering questions like: Who is the product for? What will the product do? And, what features need to be included for the product to be successful?
