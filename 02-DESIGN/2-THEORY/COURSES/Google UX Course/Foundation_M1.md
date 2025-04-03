@@ -16,3 +16,7 @@ CourseNo.: "1"
 
 # Define
 -> The goal is to figure out the specifications for the product by answering questions like: Who is the product for? What will the product do? And, what features need to be included for the product to be successful?
+
+# Design
+-> At this stage, UX designers develop the ideas for the product. Generally, UX designers start by drawing wireframes, which are outlines or sketches of the product, then move on to creating prototypes, which are early models of a product that convey its functionality.
+
