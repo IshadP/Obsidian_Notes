@@ -22,4 +22,4 @@ CourseNo.: "1"
 
 # Test
 -> UX designers work with engineers to develop functional prototypes that match the original designs, including details and features that fit the company’s brand, like font and color choices. This also means writing the code and finalizing the overall structure of the product.
-
+-> **Internal tests** within your company, **reviews** with stakeholders, and **external tests** with potential users
