@@ -27,4 +27,7 @@ CourseNo.: "1"
 
 # Characteristics of good user experience
 ## Usable
--> 
+-> If a product is **usable**, it means the design, structure, and purpose of the product is clear and easy to use
+
+# Equitable
+-> If a product is **equitable**, it means a design is helpful to people with diverse abilities and backgrounds.
