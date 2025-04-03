@@ -8,3 +8,4 @@ url: https://www.coursera.org/learn/foundations-user-experience-design/lecture/1
 CourseNo.: "1"
 ---
 ![[image-4.png]]
+![[image-5.png]]
