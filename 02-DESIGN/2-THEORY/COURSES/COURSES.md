@@ -9,6 +9,7 @@ cssclasses:
 %% Begin Waypoint %%
 - **01-AnshMehra's UX**
 	- [[Become faster & Smarter UX designer]]
+- **Google UX Course**
 - [[How to write good case study by DesignPilot]]
 - **UXdesign.cc**
 	- [[Some Questions to answer]]
