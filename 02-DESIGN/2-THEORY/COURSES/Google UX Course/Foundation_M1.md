@@ -9,3 +9,5 @@ CourseNo.: "1"
 ---
 ![[image-4.png]]
 ![[image-5.png]]
+
+-> The first stage of the product development life cycle is the **brainstorm** stage, when the team starts thinking of an idea for a product
