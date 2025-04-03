@@ -31,3 +31,10 @@ CourseNo.: "1"
 
 # Equitable
 -> If a product is **equitable**, it means a design is helpful to people with diverse abilities and backgrounds.
+
+## Enjoyable
+-> If a product is **enjoyable**, it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them.
+
+## Usefulness
+-> If a product is **useful**, that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified.
+
