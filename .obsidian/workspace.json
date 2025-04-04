@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Index.md",
-                "mode": "preview",
+                "file": "SPAM/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Index"
+              "title": "Untitled"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "c8f8852e6045a70d",
   "lastOpenFiles": [
+    "World Index.md",
     "SPAM/Untitled 1.md",
     "02-DESIGN/UI RESOURCES.md",
-    "World Index.md",
     "02-DESIGN/UX RESOURCES.md",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course/Foundation_M1.md",
     "09-IMAGES/image-5.png",
