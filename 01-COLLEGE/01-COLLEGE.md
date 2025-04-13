@@ -19,6 +19,7 @@ tags:
 			- [[PS-7]]
 			- [[PS-8]]
 			- [[PS-9]]
+			- [[PS-10]]
 - **2-CLUBS**
 - **3-SPORTS**
 - **999-ARCHIVE**
