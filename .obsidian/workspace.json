@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/10.md",
+                "file": "SPAM/PS10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10"
+              "title": "PS10"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "b110d24ff2e7d661",
   "lastOpenFiles": [
+    "SPAM/10.md",
     "SPAM/9.md",
-    "SPAM/Untitled 3.md",
+    "SPAM/PS10.md",
     "World Index.md",
     "SPAM/un.md",
     "SPAM/Untitled 2.md",
@@ -220,7 +221,6 @@
     "02-DESIGN/2-THEORY/COURSES/COURSES.md",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
     "02-DESIGN/02-DESIGN.md",
-    "SPAM/10.md",
     "SPAM/8.md",
     "SPAM/7.md",
     "SPAM/6.md",
