@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPAM/Untitled 3.md",
+                "file": "SPAM/10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "10"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -204,8 +203,9 @@
   },
   "active": "b110d24ff2e7d661",
   "lastOpenFiles": [
-    "World Index.md",
+    "SPAM/9.md",
     "SPAM/Untitled 3.md",
+    "World Index.md",
     "SPAM/un.md",
     "SPAM/Untitled 2.md",
     "03-ME/Personal Resources.md",
@@ -221,7 +221,6 @@
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
     "02-DESIGN/02-DESIGN.md",
     "SPAM/10.md",
-    "SPAM/9.md",
     "SPAM/8.md",
     "SPAM/7.md",
     "SPAM/6.md",
