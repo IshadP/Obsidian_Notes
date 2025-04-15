@@ -24,6 +24,13 @@
         "type": "FILES",
         "pattern": "World Index.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "02-DESIGN/02-DESIGN.md",
+        "patternType": "STRICT"
       }
     ]
   },

@@ -15,8 +15,6 @@ cssclasses:
 	- **[[Material Design]]**
 	- [[StoryTelling How to]]
 	- **[[UX]]**
-- [[UI RESOURCES]]
-- [[UX RESOURCES]]
 - **ZZZ-ARCHIVE**
 	- [[Roadmap]]
 
