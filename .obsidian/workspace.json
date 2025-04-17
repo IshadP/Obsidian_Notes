@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0829253740ac613b",
+        "id": "09db327666938987",
         "type": "tabs",
         "children": [
           {
-            "id": "b2db73a8ee72adcd",
+            "id": "619c7a5edfa2277a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-ME/03-ME.md",
+                "file": "World Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-ME"
+              "title": "World Index"
             }
           }
         ]
@@ -72,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f36f8ae8a42a5f60",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
         ]
@@ -181,13 +191,15 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b2db73a8ee72adcd",
+  "active": "619c7a5edfa2277a",
   "lastOpenFiles": [
+    "02-DESIGN/02-DESIGN.md",
+    "World Index.md",
+    "03-ME/03-ME.md",
     "03-ME/2025-01-28.md",
     "03-ME/2024-08-28.md",
     "03-ME/2024-07-12.md",
@@ -195,8 +207,6 @@
     "03-ME/2024-06-09.md",
     "03-ME/2024-05-20.md",
     "02-DESIGN/UI RESOURCES.md",
-    "02-DESIGN/02-DESIGN.md",
-    "World Index.md",
     "01-COLLEGE/01-COLLEGE.md",
     "Mini Project/README.md",
     "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-10.md",
@@ -218,7 +228,6 @@
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
     "_Quick Notes/8.md",
     "_Quick Notes/7.md",
-    "_Quick Notes/6.md",
     "09-IMAGES/Figure_2-1.png",
     "09-IMAGES/Figure_1-1.png",
     "09-IMAGES/image-3.png",
