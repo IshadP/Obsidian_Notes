@@ -15,9 +15,3 @@ tags:
 - [[TEMPLATES]]
 
 ---
-
-## Resources
-
-- [[UX RESOURCES]]
-- [[UI RESOURCES]]
-- [[Personal Resources]]
