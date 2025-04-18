@@ -35,3 +35,7 @@
 ---
 # Ideas
 - [ ] digital Photo booth
+
+> [!Note]
+> Yay
+
