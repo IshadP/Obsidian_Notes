@@ -13,7 +13,6 @@ cssclasses:
 	- **[[ARTICLES]]**
 	- **[[COURSES]]**
 	- **[[Material Design]]**
-	- [[StoryTelling How to]]
 	- **[[UX]]**
 - **ZZZ-ARCHIVE**
 	- [[Roadmap]]
