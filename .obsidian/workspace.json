@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6022d216372ade05",
+        "id": "0d2b1457dec2365a",
         "type": "tabs",
         "children": [
           {
-            "id": "444a75b8f38fdfd2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f74551bec5ce0359",
+            "id": "6c09a729eba9c436",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +21,7 @@
               "title": "World Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +193,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f74551bec5ce0359",
+  "active": "6c09a729eba9c436",
   "lastOpenFiles": [
     "World Index.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
