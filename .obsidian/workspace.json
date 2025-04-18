@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/CRT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATES"
+              "title": "CRT"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/CRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TEMPLATES"
+              "title": "Outgoing links from CRT"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/CRT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TEMPLATES"
+              "title": "Outline of CRT"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/CRT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,12 +196,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2962962962962963,
+                  "scale": 0.3003387451171875,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEMPLATES"
+              "title": "Graph of CRT"
             }
           }
         ]
@@ -230,11 +230,11 @@
   "active": "c03684e4bd9b8825",
   "lastOpenFiles": [
     "_Quick Notes/_Quick Notes.md",
+    "01-COLLEGE/01-COLLEGE.md",
     "TEMPLATES/TEMPLATES.md",
     "TEMPLATES/IndexNote.md",
     "02-DESIGN/02-DESIGN.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
-    "01-COLLEGE/01-COLLEGE.md",
     "World Index.md",
     "_Quick Notes/2025-04-18.md",
     "_Quick Notes/Hackathon Design Requirements.md",

@@ -1,6 +1,6 @@
 {
   "autoFold": true,
-  "hideEmptyEntry": true,
+  "hideEmptyEntry": false,
   "hideEmptyEntryInSideDock": false,
   "propertiesVisible": "",
   "propertyHideAll": "hide",
