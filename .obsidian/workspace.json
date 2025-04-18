@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATES"
+              "title": "_Quick Notes"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TEMPLATES"
+              "title": "Outgoing links from _Quick Notes"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TEMPLATES"
+              "title": "Outline of _Quick Notes"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPLATES/TEMPLATES.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TEMPLATES"
+              "title": "Graph of _Quick Notes"
             }
           }
         ]
@@ -229,6 +229,8 @@
   },
   "active": "c03684e4bd9b8825",
   "lastOpenFiles": [
+    "TEMPLATES/IndexNote.md",
+    "TEMPLATES/TEMPLATES.md",
     "_Quick Notes/_Quick Notes.md",
     "02-DESIGN/02-DESIGN.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
@@ -255,8 +257,6 @@
     "09-IMAGES/kmeans_iris_clustering.png",
     "_Quick Notes/10.md",
     "_Quick Notes/9.md",
-    "_Quick Notes/un.md",
-    "_Quick Notes/Untitled 2.md",
     "09-IMAGES/image-5.png",
     "09-IMAGES/image-4.png",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
