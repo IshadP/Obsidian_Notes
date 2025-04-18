@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
-                "mode": "preview",
+                "file": "Session Note 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Quick Notes"
+              "title": "Session Note 1"
             }
           }
         ]
@@ -99,36 +99,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd179919607a161c",
+            "id": "62316aa628e55b70",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "backlink",
+              "type": "file-properties",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "_Quick Notes/_Quick Notes.md"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Badges"
-            }
-          },
-          {
-            "id": "192d652cee3f6045",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "_Quick Notes/CRT.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from CRT"
+              "pinned": true,
+              "icon": "lucide-info",
+              "title": "File properties for _Quick Notes"
             }
           },
           {
@@ -137,46 +118,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/CRT.md",
+                "file": "Session Note 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRT"
-            }
-          },
-          {
-            "id": "90f9d2f2019ba5fb",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "4c415d2eb8b404d6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outline of Session Note 1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "a6a49fc4829edd13",
@@ -188,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
+                "file": "Session Note 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +167,36 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _Quick Notes"
+              "title": "Graph of Session Note 1"
+            }
+          },
+          {
+            "id": "4c415d2eb8b404d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a85ccfc7b937db77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -243,13 +223,16 @@
   },
   "active": "36e225a26d2ea742",
   "lastOpenFiles": [
-    "02-DESIGN/02-DESIGN.md",
-    "_Quick Notes/CD Questions.md",
     "_Quick Notes/_Quick Notes.md",
+    "Session Note 1.md",
     "World Index.md",
-    "_Quick Notes/CRT.md",
-    "01-COLLEGE/01-COLLEGE.md",
     "TEMPLATES/TEMPLATES.md",
+    "02-DESIGN/2-THEORY/Material Design/Material Design.md",
+    "02-DESIGN/02-DESIGN.md",
+    "01-COLLEGE/01-COLLEGE.md",
+    "_Quick Notes/2.md",
+    "_Quick Notes/CD Questions.md",
+    "_Quick Notes/CRT.md",
     "TEMPLATES/IndexNote.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "_Quick Notes/2025-04-18.md",
@@ -266,11 +249,8 @@
     "03-ME/2024-06-13.md",
     "03-ME/2024-06-09.md",
     "02-DESIGN/UI RESOURCES.md",
-    "Mini Project/README.md",
-    "01-COLLEGE/1-STUDIES/SEM 6/PS/PS-10.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
-    "_Quick Notes/10.md",
     "09-IMAGES/image-5.png",
     "09-IMAGES/image-4.png",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",

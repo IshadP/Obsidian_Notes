@@ -22,5 +22,14 @@
       ],
       "key": "Clear"
     }
+  ],
+  "session-notes:open-session-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "/"
+    }
   ]
 }
