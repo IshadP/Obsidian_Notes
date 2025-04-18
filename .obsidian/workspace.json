@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "582095fd399b115f",
+        "id": "6022d216372ade05",
         "type": "tabs",
         "children": [
           {
-            "id": "c67108d734e7dc2a",
+            "id": "444a75b8f38fdfd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Index.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for World Index"
+              "title": "Backlinks for Badges"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from World Index"
             }
           },
           {
@@ -169,7 +170,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,10 +193,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c67108d734e7dc2a",
+  "active": "444a75b8f38fdfd2",
   "lastOpenFiles": [
-    "_Quick Notes/CD Questions.md",
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
+    "03-ME/2024-05-20.md",
+    "01-COLLEGE/1-STUDIES/SEM 6/PS/1.md",
     "World Index.md",
+    "_Quick Notes/CD Questions.md",
     "02-DESIGN/02-DESIGN.md",
     "03-ME/03-ME.md",
     "03-ME/2025-01-28.md",
@@ -202,7 +207,6 @@
     "03-ME/2024-07-12.md",
     "03-ME/2024-06-13.md",
     "03-ME/2024-06-09.md",
-    "03-ME/2024-05-20.md",
     "02-DESIGN/UI RESOURCES.md",
     "01-COLLEGE/01-COLLEGE.md",
     "Mini Project/README.md",
@@ -221,9 +225,7 @@
     "09-IMAGES/image-5.png",
     "09-IMAGES/image-4.png",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course/Untitled.md",
-    "02-DESIGN/2-THEORY/COURSES/COURSES.md",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
-    "_Quick Notes/8.md",
     "09-IMAGES/Figure_2-1.png",
     "09-IMAGES/Figure_1-1.png",
     "09-IMAGES/image-3.png",
