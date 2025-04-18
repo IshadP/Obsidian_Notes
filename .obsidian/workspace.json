@@ -11,6 +11,16 @@
             "id": "444a75b8f38fdfd2",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f74551bec5ce0359",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "World Index.md",
@@ -21,7 +31,8 @@
               "title": "World Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +204,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "444a75b8f38fdfd2",
+  "active": "f74551bec5ce0359",
   "lastOpenFiles": [
+    "World Index.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
     "03-ME/2024-05-20.md",
     "01-COLLEGE/1-STUDIES/SEM 6/PS/1.md",
-    "World Index.md",
     "_Quick Notes/CD Questions.md",
     "02-DESIGN/02-DESIGN.md",
     "03-ME/03-ME.md",
