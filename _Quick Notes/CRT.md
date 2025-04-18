@@ -31,4 +31,4 @@
 ![[Pasted image 20250120073755.png]]
 
 tjso is not so good en
-tjwua re we gond this?
+tjwua re we gond thifjdalafadjaljs?
