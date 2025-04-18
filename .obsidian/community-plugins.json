@@ -14,5 +14,7 @@
   "image-converter",
   "omnisearch",
   "obsidian-trash-explorer",
-  "folder-notes"
+  "folder-notes",
+  "obsidian-meta-bind-plugin",
+  "obsidian-hider"
 ]

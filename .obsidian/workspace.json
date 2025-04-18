@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
-                "mode": "preview",
+                "file": "TEMPLATES/TEMPLATES.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Quick Notes"
+              "title": "TEMPLATES"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
+                "file": "TEMPLATES/TEMPLATES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Quick Notes"
+              "title": "Outgoing links from TEMPLATES"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
+                "file": "TEMPLATES/TEMPLATES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Quick Notes"
+              "title": "Outline of TEMPLATES"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
+                "file": "TEMPLATES/TEMPLATES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _Quick Notes"
+              "title": "Graph of TEMPLATES"
             }
           }
         ]
@@ -229,8 +229,8 @@
   },
   "active": "c03684e4bd9b8825",
   "lastOpenFiles": [
-    "TEMPLATES/TEMPLATES.md",
     "_Quick Notes/_Quick Notes.md",
+    "TEMPLATES/TEMPLATES.md",
     "TEMPLATES/IndexNote.md",
     "02-DESIGN/02-DESIGN.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",

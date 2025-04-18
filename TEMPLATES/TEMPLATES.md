@@ -13,8 +13,6 @@ prefer-view: read
 
 %% End Landmark %%
 
----
-
 ```meta-bind-button
 style: default
 label: Create Normal Note
@@ -24,7 +22,7 @@ actions:
     folderPath: /
     fileName: "New Lecture Note - RENAME ME"
 ```
----
+
 ```meta-bind-button
 style: default
 label: Create Folder Note
@@ -34,7 +32,7 @@ actions:
     folderPath: /
     fileName: "New Lecture Note - RENAME ME"
 ```
----
+
 ```meta-bind-button
 style: default
 label: Create Article Note
@@ -44,7 +42,7 @@ actions:
     folderPath: /
     fileName: "New Lecture Note - RENAME ME"
 ```
----
+
 ```meta-bind-button
 style: default
 label: Create Index Note
@@ -54,7 +52,7 @@ actions:
     folderPath: /
     fileName: "New Lecture Note - RENAME ME"
 ```
----
+
 ```meta-bind-button
 style: default
 label: Create Course Note
