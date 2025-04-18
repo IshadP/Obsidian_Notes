@@ -196,7 +196,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4444444444444444,
+                  "scale": 0.2962962962962963,
                   "close": true
                 }
               },
@@ -229,9 +229,9 @@
   },
   "active": "c03684e4bd9b8825",
   "lastOpenFiles": [
-    "TEMPLATES/IndexNote.md",
     "TEMPLATES/TEMPLATES.md",
     "_Quick Notes/_Quick Notes.md",
+    "TEMPLATES/IndexNote.md",
     "02-DESIGN/02-DESIGN.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "01-COLLEGE/01-COLLEGE.md",
