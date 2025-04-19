@@ -39,3 +39,12 @@ host: www.youtube.com
 favicon: https://www.youtube.com/s/desktop/c722ba88/img/logos/favicon_32x32.png
 image: https://i.ytimg.com/vi/sMoFyTGRtWI/hqdefault.jpg
 ```
+
+```cardlink
+url: https://www.youtube.com/watch?v=QOTaceVUsmQ
+title: "LP IN OUT Calculation"
+description: "Compiler Design  Numerical"
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/c722ba88/img/logos/favicon_32x32.png
+image: https://i.ytimg.com/vi/QOTaceVUsmQ/maxresdefault.jpg
+```
