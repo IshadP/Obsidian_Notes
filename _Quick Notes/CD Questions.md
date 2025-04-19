@@ -27,3 +27,15 @@ On encountering a **return statement**, the runtime system performs cleanup: it 
 In addition to the stack, the **heap segment** is used for dynamic memory allocation, such as allocating memory during execution using constructs like `new` or `malloc`. While heap memory is managed manually or by garbage collectors (in high-level languages), stack memory is automatically managed by the call and return mechanisms.
 
 Thus, runtime storage management for calls and returns ensures correct handling of procedure execution contexts, supports recursion, enables scope-based memory allocation, and contributes to overall program correctness and efficiency. It is a foundational part of the compiler's backend and runtime system design.
+
+## Calculate IN and OUT of flow graph
+
+
+```cardlink
+url: https://www.youtube.com/watch?v=sMoFyTGRtWI
+title: "How to Compute Data Flow In and Out Equations from the given Graph"
+description: "It is the entire description of how you can calculate In and Out values from the given Graph by generating Gen and Kill values and by the Iterations"
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/c722ba88/img/logos/favicon_32x32.png
+image: https://i.ytimg.com/vi/sMoFyTGRtWI/hqdefault.jpg
+```

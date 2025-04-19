@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Index.md",
-                "mode": "preview",
+                "file": "_Quick Notes/CD Questions.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Index"
+              "title": "CD Questions"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "World Index.md",
+                "file": "_Quick Notes/CD Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of World Index"
+              "title": "Graph of CD Questions"
             }
           },
           {
@@ -256,9 +256,9 @@
   },
   "active": "337058324cfb5a75",
   "lastOpenFiles": [
-    "Session Note 1.md",
     "_Quick Notes/_Quick Notes.md",
     "World Index.md",
+    "Session Note 1.md",
     "TEMPLATES/TEMPLATES.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
     "02-DESIGN/02-DESIGN.md",
