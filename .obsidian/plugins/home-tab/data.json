@@ -1,5 +1,5 @@
 {
-  "logoType": "default",
+  "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
     "imagePath": "",
@@ -23,6 +23,10 @@
   "markdownOnly": false,
   "unresolvedLinks": false,
   "recentFilesStore": [
+    {
+      "filepath": "_Quick Notes/Untitled 3.md",
+      "timestamp": 1745146153987
+    },
     {
       "filepath": "World Index.md",
       "timestamp": 1745123674898
