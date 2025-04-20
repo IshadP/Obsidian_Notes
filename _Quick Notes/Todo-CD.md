@@ -23,7 +23,7 @@
 - [x] Value and handles
 - [x] Synthesized and inhertied attributes
 - [x] S-Attributed & L-Attributed
-- [ ] Symbol Table and Data structures used
+- [x] Symbol Table and Data structures used
 - [ ] Procedure activaiton
 - [ ] parameter passing
 - [ ] return statements and memory allocation
