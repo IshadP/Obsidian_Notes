@@ -33,7 +33,7 @@
 - [ ] Local Vs Global optimisation and its types
 - [ ] Loop Optimisations
 - [ ] Peep Hole optimisations
-- [ ] Machne Dependent Code Improvement
+- [ ] Machine Dependent Code Improvement
 - [ ] Instruction Scheduling
 - [ ] Register relocation
 - [ ] Non Imperative Languages
