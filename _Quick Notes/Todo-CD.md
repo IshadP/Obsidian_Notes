@@ -1,5 +1,5 @@
 ## Numericals 
-- [ ] RE to minimised DFA
+- [x] RE to minimised DFA
 - [ ] LL(1) or not
 - [ ] LR(0) and string proof
 - [ ] LR(1) and LALR
