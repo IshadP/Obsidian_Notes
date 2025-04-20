@@ -20,7 +20,7 @@
 - [x] How First and follow helps LL(1)
 - [x] Difference Between SLR CLR LALR
 - [x] LALR Parser Generator
-- [ ] Value and handles
+- [x] Value and handles
 - [ ] Synthesized and inhertied attributes
 - [ ] S-Attributed & L-Attributed
 - [ ] Symbol Table and Data structures used
