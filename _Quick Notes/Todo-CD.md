@@ -12,6 +12,8 @@
 ## Theory
 - [x] Phases of compilation
 - [ ] LEX
+- [ ] Compiler Generating Tools
+- [ ] Cross Compiler and Bootstrap
 - [ ] YACC
 - [ ] How FA helps Lexical anaylser
 - [ ] CFG
