@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1745123650142,
+      "path": "01-COLLEGE",
+      "title": "College"
+    },
+    {
+      "type": "folder",
+      "ctime": 1745123663221,
+      "path": "02-DESIGN",
+      "title": "Design"
+    },
+    {
+      "type": "folder",
+      "ctime": 1745123668559,
+      "path": "03-ME",
+      "title": "Me"
+    }
+  ]
+}
