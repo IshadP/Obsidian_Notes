@@ -17,8 +17,8 @@
 - [ ] YACC
 - [ ] How FA helps Lexical anaylser
 - [ ] CFG
-- [ ] How First and follow helps LL(1)
-- [ ] Difference Between SLR CLR LALR
+- [x] How First and follow helps LL(1)
+- [x] Difference Between SLR CLR LALR
 - [ ] LALR Parser Generator
 - [ ] Value and handles
 - [ ] Synthesized and inhertied attributes
@@ -27,7 +27,7 @@
 - [ ] Procedure activaiton
 - [ ] parameter passing
 - [ ] return statements and memory allocation
-- [ ] Types of Intermediate Forms
+- [x] Types of Intermediate Forms
 - [ ] Control Flow analysis
 - [ ] Data flow analysis and dependence
 - [ ] Local Vs Global optimisation and its types
@@ -35,5 +35,5 @@
 - [ ] Peep Hole optimisations
 - [ ] Machne Dependent Code Improvement
 - [ ] Instruction Scheduling
-- [ ] Register rellocation
-- [ ] Non Imperative Langauges
+- [ ] Register relocation
+- [ ] Non Imperative Languages
