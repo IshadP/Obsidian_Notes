@@ -1,7 +1,7 @@
 ## Numericals 
 - [x] RE to minimised DFA
 - [x] LL(1) or not
-- [ ] LR(0) and string proof
+- [x] LR(0) and string proof
 - [ ] LR(1) and LALR
 - [ ] SDTS And TAC Generation
 - [ ] TAC Representation
