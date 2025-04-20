@@ -2,7 +2,7 @@
 - [x] RE to minimised DFA
 - [x] LL(1) or not
 - [x] LR(0) and string proof
-- [ ] LR(1) and LALR
+- [x] LR(1) and LALR
 - [ ] SDTS And TAC Generation
 - [ ] TAC Representation
 - [ ] IN & OUT of block diagram
