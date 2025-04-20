@@ -15,4 +15,5 @@
 - [ ] YACC
 - [ ] How FA helps Lexical anaylser
 - [ ] CFG
-- [ ] How First and follow helps 
+- [ ] How First and follow helps LL(1)
+- [ ] 
