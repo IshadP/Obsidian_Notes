@@ -35,4 +35,3 @@
 - [ ] Instruction Scheduling
 - [ ] Register rellocation
 - [ ] Non Imperative Langauges
-- [ ] 
