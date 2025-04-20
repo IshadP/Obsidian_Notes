@@ -10,7 +10,7 @@
 - [x] Optimal Code Generation
 
 ## Theory
-- [ ] Phases of compilation
+- [x] Phases of compilation
 - [ ] LEX
 - [ ] YACC
 - [ ] How FA helps Lexical anaylser
