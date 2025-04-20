@@ -17,5 +17,7 @@
   "folder-notes",
   "obsidian-meta-bind-plugin",
   "obsidian-hider",
-  "session-notes"
+  "session-notes",
+  "typst",
+  "oz-clear-unused-images"
 ]

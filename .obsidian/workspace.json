@@ -84,7 +84,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -252,14 +253,15 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "476371252193b567",
+  "active": "f36f8ae8a42a5f60",
   "lastOpenFiles": [
+    "Session Note 1.md",
     "World Index.md",
     "_Quick Notes/CD Questions.md",
-    "Session Note 1.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/TEMPLATES.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
