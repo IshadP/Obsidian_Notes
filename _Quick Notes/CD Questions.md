@@ -1,18 +1,5 @@
-## Memory allocation for procedure calls and return statements
+## Procedure Activation
 
-In compiler design, **memory allocation during procedure call and return** is a fundamental aspect of runtime organization. When a procedure (or function) is called, the compiler must allocate memory for various components such as parameters, local variables, return address, and bookkeeping data. This is typically managed through a **runtime stack**, also known as the **call stack**, which supports a Last-In-First-Out (LIFO) order, suitable for nested and recursive procedure calls.
-
-Each time a procedure is invoked, a data structure called an **activation record** or **stack frame** is pushed onto the stack. The activation record holds several key pieces of information: space for actual parameters (arguments passed to the function), return address (where control should return after the function finishes), control link (a pointer to the calling procedure's activation record), access link (used in languages with nested procedures to access non-local variables), and space for local variables and temporary data. In some cases, a return value field is also included if the procedure is expected to produce a result.
-
-When the procedure is called, the compiler generates code to allocate and initialize this activation record. The parameters are evaluated and placed in the appropriate locations, the return address is stored, and the control jumps to the procedure's code. A **frame pointer** (FP) or **base pointer** is often used to reference the current activation record, while the **stack pointer** (SP) indicates the top of the stack. Together, they help manage and access data within the current procedure.
-
-During execution, the procedure may declare and use local variables, which are stored in the current activation record. If the language supports dynamic memory allocation (like using `malloc` in C), a separate heap segment is used, and pointers to this memory are stored in the stack. Additionally, **recursive calls** result in multiple activation records being pushed, one for each active instance of the procedure.
-
-When a **return statement** is encountered, the procedure finishes its execution. The compiler generates code to copy the return value (if any), restore the caller’s frame and stack pointers, and transfer control back to the return address. The current activation record is then popped from the stack, effectively deallocating memory used by the called procedure.
-
-In the case of **nested procedures** (as seen in languages like Pascal or modern functional languages), the **access link** becomes crucial. It allows the called procedure to reference variables declared in its enclosing scope, even if the call came from a different part of the program. This access link is maintained through static or dynamic links, depending on the implementation of the compiler and the language’s scoping rules.
-
-In summary, memory allocation for procedure call and return in compiler design is centered around the efficient use of a runtime stack and activation records. It ensures proper parameter passing, local variable handling, and return management while supporting recursion and nested scopes. This stack-based memory organization is a cornerstone of most modern language runtimes, enabling clean and organized function call management.
 
 ## Give runtime storage managemenr for calls and return statements
 
