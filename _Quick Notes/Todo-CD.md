@@ -6,8 +6,8 @@
 - [x] SDTS And TAC Generation
 - [x] TAC Representation
 - [x] IN & OUT of block diagram
-- [ ] Simple Code Generation
-- [ ] Optimal Code Generation
+- [x] Simple Code Generation
+- [x] Optimal Code Generation
 
 ## Theory
 - [ ] Phases of compilation
