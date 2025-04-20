@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "World Index"
             }
+          },
+          {
+            "id": "48be3f9215890343",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,10 +266,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "614554b248bdca21",
+  "active": "48be3f9215890343",
   "lastOpenFiles": [
-    "Session Note 1.md",
     "World Index.md",
+    "Session Note 1.md",
     "_Quick Notes/CD Questions.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/TEMPLATES.md",

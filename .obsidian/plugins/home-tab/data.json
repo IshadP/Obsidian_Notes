@@ -25,14 +25,14 @@
   "recentFilesStore": [
     {
       "filepath": "World Index.md",
-      "timestamp": 1745123604755
+      "timestamp": 1745123639926
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
-  "newTabOnStart": false,
+  "newTabOnStart": true,
   "closePreviousSessionTabs": false,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true
 }
