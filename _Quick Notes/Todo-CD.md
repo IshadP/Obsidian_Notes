@@ -29,9 +29,9 @@
 - [x] return statements and memory allocation
 - [x] Types of Intermediate Forms
 - [ ] Control Flow analysis
-- [ ] Data flow analysis and dependence
+- [x] Data flow analysis and dependence
 - [ ] Local Vs Global optimisation and its types
-- [ ] Loop Optimisations
+- [x] Loop Optimisations
 - [ ] Peep Hole optimisations
 - [ ] Machine Dependent Code Improvement
 - [ ] Instruction Scheduling
