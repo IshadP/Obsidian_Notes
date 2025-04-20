@@ -26,7 +26,7 @@
 - [x] Symbol Table and Data structures used
 - [ ] Procedure activaiton
 - [ ] parameter passing
-- [ ] return statements and memory allocation
+- [x] return statements and memory allocation
 - [x] Types of Intermediate Forms
 - [ ] Control Flow analysis
 - [ ] Data flow analysis and dependence

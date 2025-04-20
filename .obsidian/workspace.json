@@ -35,7 +35,8 @@
               "title": "Todo-CD"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,12 +271,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "619cc7485803d4f9",
+  "active": "1e3e87ad57158afc",
   "lastOpenFiles": [
+    "_Quick Notes/CD Questions.md",
     "_Quick Notes/Todo-CD.md",
     "World Index.md",
     "Session Note 1.md",
-    "_Quick Notes/CD Questions.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/TEMPLATES.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
