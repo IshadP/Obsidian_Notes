@@ -19,4 +19,9 @@
 - [ ] Difference Between SLR CLR LALR
 - [ ] LALR Parser Generator
 - [ ] Value and handles
-- [ ] 
+- [ ] Synthesized and inhertied attributes
+- [ ] S-Attributed & L-Attributed
+- [ ] Symbol Table and Data structures used
+- [ ] Procedure activaiton
+- [ ] parameter passing
+- [ ] return statements and memory alloction
