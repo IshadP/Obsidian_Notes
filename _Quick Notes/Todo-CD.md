@@ -16,10 +16,10 @@
 - [x] Cross Compiler and Bootstrap
 - [x] YACC
 - [x] How FA helps Lexical anaylser
-- [ ] CFG
+- [x] CFG
 - [x] How First and follow helps LL(1)
 - [x] Difference Between SLR CLR LALR
-- [ ] LALR Parser Generator
+- [x] LALR Parser Generator
 - [ ] Value and handles
 - [ ] Synthesized and inhertied attributes
 - [ ] S-Attributed & L-Attributed
