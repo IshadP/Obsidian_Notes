@@ -11,11 +11,11 @@
 
 ## Theory
 - [x] Phases of compilation
-- [ ] LEX
+- [x] LEX
 - [x] Compiler Generating Tools
 - [x] Cross Compiler and Bootstrap
-- [ ] YACC
-- [ ] How FA helps Lexical anaylser
+- [x] YACC
+- [x] How FA helps Lexical anaylser
 - [ ] CFG
 - [x] How First and follow helps LL(1)
 - [x] Difference Between SLR CLR LALR
