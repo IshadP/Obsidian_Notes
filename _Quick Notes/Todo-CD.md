@@ -24,4 +24,15 @@
 - [ ] Symbol Table and Data structures used
 - [ ] Procedure activaiton
 - [ ] parameter passing
-- [ ] return statements and memory alloction
+- [ ] return statements and memory allocation
+- [ ] Types of Intermediate Forms
+- [ ] Control Flow analysis
+- [ ] Data flow analysis and dependence
+- [ ] Local Vs Global optimisation and its types
+- [ ] Loop Optimisations
+- [ ] Peep Hole optimisations
+- [ ] Machne Dependent Code Improvement
+- [ ] Instruction Scheduling
+- [ ] Register rellocation
+- [ ] Non Imperative Langauges
+- [ ] 
