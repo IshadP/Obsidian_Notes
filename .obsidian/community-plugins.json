@@ -2,7 +2,6 @@
   "obsidian-git",
   "file-explorer-plus",
   "templater-obsidian",
-  "homepage",
   "metadata-hider",
   "obsidian-style-settings",
   "symbols-prettifier",
@@ -19,5 +18,6 @@
   "obsidian-hider",
   "session-notes",
   "typst",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "home-tab"
 ]
