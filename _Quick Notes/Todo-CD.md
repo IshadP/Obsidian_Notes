@@ -16,4 +16,7 @@
 - [ ] How FA helps Lexical anaylser
 - [ ] CFG
 - [ ] How First and follow helps LL(1)
+- [ ] Difference Between SLR CLR LALR
+- [ ] LALR Parser Generator
+- [ ] Value and handles
 - [ ] 
