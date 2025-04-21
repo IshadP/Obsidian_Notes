@@ -1,6 +1,6 @@
 ## Numericals 
 - [ ] RE to minimised DFA
-- [x] LL(1) or not
+- [ ] LL(1) or not
 - [x] LR(0) and string proof
 - [x] LR(1) and LALR
 - [x] SDTS And TAC Generation
