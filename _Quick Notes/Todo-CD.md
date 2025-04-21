@@ -32,7 +32,7 @@
 - [x] Data flow analysis and dependence
 - [ ] Local Vs Global optimisation and its types
 - [x] Loop Optimisations
-- [ ] Peep Hole optimisations
+- [x] Peep Hole optimisations
 - [ ] Machine Dependent Code Improvement
 - [ ] Instruction Scheduling
 - [ ] Register relocation
