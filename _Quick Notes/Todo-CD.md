@@ -5,8 +5,8 @@
 - [ ] LR(1) and LALR
 - [ ] SDTS And TAC Generation
 - [ ] TAC Representation
-- [x] IN & OUT of block diagram
-- [x] Simple Code Generation
+- [ ] IN & OUT of block diagram
+- [ ] Simple Code Generation
 - [x] Optimal Code Generation
 
 ## Theory
