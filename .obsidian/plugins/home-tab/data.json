@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_Quick Notes/_Quick Notes.md",
-      "timestamp": 1745250408534
+      "timestamp": 1745250436531
+    },
+    {
+      "filepath": "_Quick Notes/GDGC Brandd Guide.md",
+      "timestamp": 1745250429000
     },
     {
       "filepath": "_Quick Notes/10.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "03-ME/03-ME.md",
       "timestamp": 1745250328486
-    },
-    {
-      "filepath": "02-DESIGN/02-DESIGN.md",
-      "timestamp": 1745250325606
     }
   ],
   "bookmarkedFileStore": [],
