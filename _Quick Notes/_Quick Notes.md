@@ -23,6 +23,7 @@ tags:
 - [[Changes]]
 - [[College Pickup]]
 - [[CRT]]
+- [[Data Preprocessing]]
 - [[Design Sprint at GDGC]]
 - [[Document Guidelines]]
 - [[Email]]
@@ -36,6 +37,5 @@ tags:
 - [[ScratchPad]]
 - [[Things to buy]]
 - [[Untitled 2]]
-- [[Untitled]]
 
 %% End Waypoint %%
