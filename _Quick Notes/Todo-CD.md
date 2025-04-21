@@ -7,7 +7,7 @@
 - [ ] TAC Representation
 - [ ] IN & OUT of block diagram
 - [ ] Simple Code Generation
-- [x] Optimal Code Generation
+- [ ] Optimal Code Generation
 
 ## Theory
 - [x] Phases of compilation
