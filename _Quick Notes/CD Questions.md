@@ -1,7 +1,7 @@
 ## Procedure Activation
 
 
-## Give runtime storage managemenr for calls and return statements
+## Give runtime storage management for calls and return statements
 
 In compiler design, **runtime storage management** is a crucial part of implementing procedure or function calls and handling return statements. The compiler, along with the runtime system, must organize memory effectively to store data such as parameters, return addresses, local variables, and intermediate values. This is primarily achieved through a **runtime memory layout**, which includes areas like the **code segment**, **data segment**, **heap**, and most importantly, the **stack**.
 
