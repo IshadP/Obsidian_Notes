@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "03-ME/03-ME.md",
+      "timestamp": 1745250503399
+    },
+    {
       "filepath": "_Quick Notes/_Quick Notes.md",
-      "timestamp": 1745250436531
+      "timestamp": 1745250451546
+    },
+    {
+      "filepath": "_Quick Notes/ScratchPad.md",
+      "timestamp": 1745250445043
     },
     {
       "filepath": "_Quick Notes/GDGC Brandd Guide.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_Quick Notes/10.md",
       "timestamp": 1745250406937
-    },
-    {
-      "filepath": "_Quick Notes/Data Preprocessing.md",
-      "timestamp": 1745250396897
-    },
-    {
-      "filepath": "03-ME/03-ME.md",
-      "timestamp": 1745250328486
     }
   ],
   "bookmarkedFileStore": [],
