@@ -3,7 +3,7 @@
 - [ ] LL(1) or not
 - [ ] LR(0) and string proof
 - [ ] LR(1) and LALR
-- [x] SDTS And TAC Generation
+- [ ] SDTS And TAC Generation
 - [x] TAC Representation
 - [x] IN & OUT of block diagram
 - [x] Simple Code Generation
