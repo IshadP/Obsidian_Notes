@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Todo-CD"
             }
+          },
+          {
+            "id": "7763e0ae594d7545",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,10 +281,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1e3e87ad57158afc",
+  "active": "7763e0ae594d7545",
   "lastOpenFiles": [
-    "_Quick Notes/CD Questions.md",
     "_Quick Notes/Todo-CD.md",
+    "_Quick Notes/CD Questions.md",
     "World Index.md",
     "Session Note 1.md",
     "_Quick Notes/_Quick Notes.md",
