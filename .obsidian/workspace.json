@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "221cea75aa4ab77e",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "1e3e87ad57158afc",
             "type": "leaf",
             "state": {
@@ -117,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -285,7 +294,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1e3e87ad57158afc",
+  "active": "221cea75aa4ab77e",
   "lastOpenFiles": [
     "_Quick Notes/CD Questions.md",
     "_Quick Notes/Todo-CD.md",
