@@ -22,3 +22,18 @@ host: medium.com
 favicon: https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19
 image: https://miro.medium.com/v2/da:true/resize:fit:640/0*8PNyLLIlY6_rzgxK
 ```
+
+## Multicollinearity
+**Multiple Linear Regression (MLR)** is a statistical technique used to model the relationship between one **dependent variable** and two or more **independent variables**. It is an extension of simple linear regression, which involves only one independent variable. The purpose of MLR is to predict the value of the dependent variable based on the values of multiple explanatory variables. This method is widely used in various fields such as economics, biology, social sciences, and machine learning to understand how several factors together influence a particular outcome.
+
+The general form of a multiple linear regression model is:  
+**Y = β₀ + β₁X₁ + β₂X₂ + ... + βnXn + ε**  
+Here, **Y** is the dependent variable, **X₁, X₂, ..., Xn** are the independent variables, **β₀** is the intercept, **β₁ to βn** are the coefficients representing the effect of each independent variable on Y, and **ε** is the error term that accounts for variability not explained by the model.
+
+MLR works by finding the line (or hyperplane in higher dimensions) that best fits the data, using a method called **least squares estimation**. This technique minimizes the sum of the squared differences between the observed values and the predicted values of the dependent variable. Once the model is trained, it can be used to predict outcomes for new data or to understand the relative impact of each predictor variable.
+
+To evaluate a multiple linear regression model, several metrics are used. The **R-squared (R²)** value indicates how much of the variability in the dependent variable is explained by the model. A higher R² value means a better fit. The **adjusted R²** is also considered, especially when multiple predictors are involved, as it adjusts for the number of variables used in the model. Additionally, **p-values** for each coefficient are checked to determine the statistical significance of each independent variable.
+
+However, there are certain assumptions underlying multiple linear regression that must be met for the model to be valid. These include **linearity** (the relationship between dependent and independent variables must be linear), **independence** (observations should be independent of each other), **homoscedasticity** (constant variance of errors), and **normality of residuals**. Violation of these assumptions can lead to incorrect conclusions or unreliable predictions.
+
+One common issue in MLR is **multicollinearity**, where two or more independent variables are highly correlated with each other. This can inflate the variance of the coefficient estimates and make the model unstable. Techniques like **Variance Inflation Factor (VIF)** can be used to detect multicollinearity, and it can be addressed by removing or combining correlated variables.

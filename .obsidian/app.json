@@ -6,7 +6,7 @@
   "newFileFolderPath": "_Quick Notes",
   "attachmentFolderPath": "09-IMAGES",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
