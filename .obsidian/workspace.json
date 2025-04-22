@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "03-ME"
             }
+          },
+          {
+            "id": "1f3ee00ad8e40b5f",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,8 +266,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "221cea75aa4ab77e",
+  "active": "1f3ee00ad8e40b5f",
   "lastOpenFiles": [
+    "03-ME/03-ME.md",
     "03-ME/cv-en.typ",
     "_Quick Notes/_Quick Notes.md",
     "_Quick Notes/ScratchPad.md",
@@ -269,7 +281,6 @@
     "_Quick Notes/TimeLine for Mini.md",
     "_Quick Notes/un.md",
     "_Quick Notes/Todo-CD.md",
-    "03-ME/03-ME.md",
     "02-DESIGN/02-DESIGN.md",
     "World Index.md",
     "Session Note 1.md",
@@ -301,7 +312,6 @@
     "_Quick Notes",
     "09-IMAGES",
     "03-ME",
-    "02-DESIGN/ZZZ-ARCHIVE",
-    "02-DESIGN/2-THEORY/UX/WCAG"
+    "02-DESIGN/ZZZ-ARCHIVE"
   ]
 }
