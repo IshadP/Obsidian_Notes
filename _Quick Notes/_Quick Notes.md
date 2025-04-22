@@ -30,6 +30,7 @@ tags:
 - [[Hackathon Design Requirements]]
 - [[Mini Project Diagram Questions]]
 - [[MINI Project]]
+- [[ML Answers]]
 - [[ML Assignment]]
 - [[NexMeet Page]]
 - [[ScratchPad]]
