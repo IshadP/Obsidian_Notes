@@ -11,3 +11,14 @@ Once the value of _k_ is determined, I would apply the K-Means algorithm by init
 After the clustering is complete, I would **analyze the resulting clusters** to interpret their characteristics. This involves checking the mean values of features within each cluster to understand what differentiates them. Visualization techniques such as **scatter plots of the first two principal components**, **t-SNE**, or **heatmaps** can also be used to gain insights into how the data points are grouped and how well-separated the clusters are.
 
 Finally, I would evaluate the clustering performance using metrics like **Silhouette Coefficient**, **Davies-Bouldin Index**, or **inertia** to ensure the quality of the clusters. If necessary, I would iterate through the process again by adjusting the number of clusters or refining the preprocessing steps. Overall, the goal is not just to form clusters but to make sure they represent meaningful groupings that can be interpreted and used in further analysis or decision-making.
+
+## Kmeans vs Kmediods
+
+```cardlink
+url: https://medium.com/@prasanNH/exploring-the-world-of-clustering-k-means-vs-k-medoids-f648ea738508
+title: "Exploring the World of Clustering: K-Means vs. K-Medoids"
+description: "Clustering is a powerful technique in machine learning and data analysis, used to group similar data points together. Two popular…"
+host: medium.com
+favicon: https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19
+image: https://miro.medium.com/v2/da:true/resize:fit:640/0*8PNyLLIlY6_rzgxK
+```
