@@ -23,7 +23,7 @@ favicon: https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057
 image: https://miro.medium.com/v2/da:true/resize:fit:640/0*8PNyLLIlY6_rzgxK
 ```
 
-## Multicollinearity
+## Multiple Linear Regression
 **Multiple Linear Regression (MLR)** is a statistical technique used to model the relationship between one **dependent variable** and two or more **independent variables**. It is an extension of simple linear regression, which involves only one independent variable. The purpose of MLR is to predict the value of the dependent variable based on the values of multiple explanatory variables. This method is widely used in various fields such as economics, biology, social sciences, and machine learning to understand how several factors together influence a particular outcome.
 
 The general form of a multiple linear regression model is:  
