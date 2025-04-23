@@ -22,3 +22,4 @@
 5. Statistical Significance & p Value x3 (numerical x1)
 6. Multi Bandit Algorithm x1
 7. Chi Square x2
+8. Type 1 & 2 error
