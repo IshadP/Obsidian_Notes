@@ -14,3 +14,7 @@
 5. Sampling x1
 6. t Distribution x2
 7. Hypothesis test x1
+
+# Chp3
+1. ANOVA x
+2. 
