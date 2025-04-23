@@ -36,5 +36,6 @@ tags:
 - [[ScratchPad]]
 - [[Things to buy]]
 - [[Untitled 2]]
+- [[Untitled]]
 
 %% End Waypoint %%
