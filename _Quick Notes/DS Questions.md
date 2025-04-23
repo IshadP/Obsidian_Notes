@@ -9,7 +9,7 @@
 # Chp2
 1. Bootstrapping x
 2. Bias x
-3. confidence interval x
+3. confidence interval x2
 4. Normal distribution x
 5. Sampling x
-6. 
+6. t Distribution x
