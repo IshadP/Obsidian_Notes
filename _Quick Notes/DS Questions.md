@@ -16,7 +16,7 @@
 
 # Chp3
 1. ANOVA x3
-2. Hypothesis test x3
+2. Hypothesis test x4
 3. A/B testing x2
 4. Degree of freedom x1
 5. Statistical Significance & p Value x3 (numerical x1)
