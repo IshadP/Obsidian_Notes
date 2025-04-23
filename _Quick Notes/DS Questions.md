@@ -25,9 +25,22 @@
 8. Type 1 & 2 error x1
 
 # Chp4
-1. Regressin and its types x1
-2. Factor variables x1
-3. Correlated and cofounding variable x1
-4. Simple Linear Regression x1
-5. Polynomial regression x1
-6. Spline regression x1
+1. Regression and its types & Diagnostic x3
+2. Factor variables x3
+3. Correlated and cofounding variable x3
+4. Simple Linear Regression or Multple x3
+5. Polynomial regression x3
+6. Spline regression x4
+7. Multicollinearity x1
+#### Unique
+![[image.png]]
+
+# Chp5
+1. Logistic Regression x3
+2. Discriminant analysis x3
+	1. LDA
+	2. QDA
+3. Strats for imbalanced data x4
+4. Naive Bayes x4
+5. Eval classification model x1
+6. Eval using confusion matrix
