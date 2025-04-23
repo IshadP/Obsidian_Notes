@@ -24,6 +24,7 @@ tags:
 - [[Data Preprocessing]]
 - [[Design Sprint at GDGC]]
 - [[Document Guidelines]]
+- [[DS PYQs]]
 - [[DS Questions]]
 - [[Email]]
 - [[Fake new]]
@@ -36,6 +37,5 @@ tags:
 - [[ScratchPad]]
 - [[Things to buy]]
 - [[Untitled 2]]
-- [[Untitled]]
 
 %% End Waypoint %%
