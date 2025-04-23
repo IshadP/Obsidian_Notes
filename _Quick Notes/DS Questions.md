@@ -28,5 +28,6 @@
 1. Regressin and its types x1
 2. Factor variables x1
 3. Correlated and cofounding variable x1
-4. Polynomial regression x1
-5. Spline regression x1
+4. Simple Linear Regression x1
+5. Polynomial regression x1
+6. Spline regression x1
