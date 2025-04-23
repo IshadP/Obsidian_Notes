@@ -15,6 +15,8 @@
 6. t Distribution x2
 
 # Chp3
-1. ANOVA x
-2. Hypothesis test x2
-3. Statistical Significance x1
+1. ANOVA x2
+2. Hypothesis test x3
+3. A/B testing x1
+4. Degree of freedom x1
+5. Statistical Significance & p Value x2
