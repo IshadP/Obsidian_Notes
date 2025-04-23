@@ -15,8 +15,10 @@
 6. t Distribution x2
 
 # Chp3
-1. ANOVA x2
+1. ANOVA x3
 2. Hypothesis test x3
-3. A/B testing x1
+3. A/B testing x2
 4. Degree of freedom x1
-5. Statistical Significance & p Value x2
+5. Statistical Significance & p Value x3 (numerical x1)
+6. Multi Bandit Algorithm x1
+7. Chi Square x2
