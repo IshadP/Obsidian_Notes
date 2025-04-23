@@ -30,9 +30,23 @@
               "icon": "search",
               "title": "Home tab"
             }
+          },
+          {
+            "id": "65b1ff82813600d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/DS Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DS Questions"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,8 +281,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1f3ee00ad8e40b5f",
+  "active": "65b1ff82813600d8",
   "lastOpenFiles": [
+    "_Quick Notes/DS Questions.md",
     "_Quick Notes/ML Answers.md",
     "_Quick Notes/ML Assignment.md",
     "03-ME/03-ME.md",
@@ -295,7 +310,6 @@
     "TEMPLATES/IndexNote.md",
     "02-DESIGN/2-THEORY/StoryTelling How to.md",
     "_Quick Notes/2025-04-18.md",
-    "_Quick Notes/Hackathon Design Requirements.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
     "09-IMAGES/image-5.png",

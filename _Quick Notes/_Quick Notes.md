@@ -24,6 +24,7 @@ tags:
 - [[Data Preprocessing]]
 - [[Design Sprint at GDGC]]
 - [[Document Guidelines]]
+- [[DS Questions]]
 - [[Email]]
 - [[Fake new]]
 - [[GDGC Brandd Guide]]
