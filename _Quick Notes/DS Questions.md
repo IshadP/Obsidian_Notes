@@ -17,9 +17,16 @@
 # Chp3
 1. ANOVA x3
 2. Hypothesis test x4
-3. A/B testing x2
+3. A/B testing x3
 4. Degree of freedom x1
 5. Statistical Significance & p Value x3 (numerical x1)
 6. Multi Bandit Algorithm x1
 7. Chi Square x2
-8. Type 1 & 2 error
+8. Type 1 & 2 error x1
+
+# Chp4
+1. Regressin and its types x1
+2. Factor variables x1
+3. Correlated and cofounding variable x1
+4. Polynomial regression x1
+5. Spline regression x1
