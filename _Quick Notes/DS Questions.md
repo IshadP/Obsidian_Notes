@@ -7,7 +7,7 @@
 6. Why is exploring data distribution important
 
 # Chp2
-1. Bootstrapping x4
+1. Bootstrapping x3
 2. Bias x2
 3. confidence interval x2
 4. Normal distribution x3
@@ -16,5 +16,5 @@
 
 # Chp3
 1. ANOVA x
-2. Hypothesis test x2
+2. Hypothesis test x3
 3. Statistical Significance x1
