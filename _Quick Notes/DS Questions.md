@@ -16,5 +16,5 @@
 
 # Chp3
 1. ANOVA x
-2. Hypothesis test x3
+2. Hypothesis test x2
 3. Statistical Significance x1
