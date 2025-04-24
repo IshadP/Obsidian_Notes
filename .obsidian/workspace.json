@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Note 1.md",
+                "file": "_Quick Notes/DS Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Note 1"
+              "title": "Outline of DS Questions"
             }
           },
           {
@@ -200,7 +200,8 @@
               "title": "Outgoing links from Session Note 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a6a49fc4829edd13",
@@ -212,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/CD Questions.md",
+                "file": "_Quick Notes/DS Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CD Questions"
+              "title": "Graph of DS Questions"
             }
           },
           {
@@ -276,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,7 +295,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6c9c4d986dfe6fbd",
+  "active": "bcbe9b334b1ebc14",
   "lastOpenFiles": [
     "_Quick Notes/DS PYQs.md",
     "_Quick Notes/DS Questions.md",
