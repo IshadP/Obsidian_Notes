@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,13 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/DS Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DS Questions"
+              "title": "Outline"
             }
           },
           {
@@ -213,7 +212,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/DS Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DS Questions"
+              "title": "Graph view"
             }
           },
           {
@@ -295,7 +293,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bcbe9b334b1ebc14",
+  "active": "1f3ee00ad8e40b5f",
   "lastOpenFiles": [
     "_Quick Notes/DS PYQs.md",
     "_Quick Notes/DS Questions.md",
