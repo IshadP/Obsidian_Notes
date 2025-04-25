@@ -98,3 +98,4 @@ In addition to these metrics, **cross-validation** techniques such as **k-fold c
 For **multiclass classification problems**, extensions of the binary metrics are used, such as **macro-averaging** (equal weight to each class) or **micro-averaging** (weighting by class frequency), depending on whether all classes should be treated equally or proportionally to their occurrence.
 
 In summary, the **evaluation of a classification model involves multiple metrics that assess different aspects of performance**, such as accuracy, precision, recall, and AUC. Each metric provides insights into how the model handles various types of errors. Choosing the right set of metrics depends on the specific context and the costs associated with different types of misclassification. A comprehensive evaluation ensures that the model is reliable, generalizes well to unseen data, and supports effective, data-driven decisions.
+
