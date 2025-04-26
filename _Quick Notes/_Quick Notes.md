@@ -36,6 +36,7 @@ tags:
 - [[ML Assignment]]
 - [[NexMeet Page]]
 - [[ScratchPad]]
+- [[Show Your Work]]
 - [[Things to buy]]
 - [[Untitled 2]]
 

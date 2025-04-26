@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Quick Notes/Untitled.md",
+      "filepath": "TEMPLATES/CourseNote.md",
+      "timestamp": 1745675603851
+    },
+    {
+      "filepath": "TEMPLATES/Book Note.md",
+      "timestamp": 1745675595374
+    },
+    {
+      "filepath": "_Quick Notes/Show Your Work.md",
+      "timestamp": 1745675573218
+    },
+    {
+      "filepath": "_Quick Notes/Don't be a NPC.md",
       "timestamp": 1745668550149
     },
     {
       "filepath": "03-ME/03-ME.md",
       "timestamp": 1745647800433
-    },
-    {
-      "filepath": "_Quick Notes/DS PYQs.md",
-      "timestamp": 1745590046886
     }
   ],
   "bookmarkedFileStore": [],

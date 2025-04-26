@@ -5,6 +5,7 @@ prefer-view: read
 ---
 %% Begin Landmark %%
 - [[ArticleNote]]
+- [[Book Note]]
 - [[CourseNote]]
 - [[Daily Note]]
 - [[FolderNote]]
