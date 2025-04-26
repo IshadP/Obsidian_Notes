@@ -24,6 +24,7 @@ tags:
 - [[Data Preprocessing]]
 - [[Design Sprint at GDGC]]
 - [[Document Guidelines]]
+- [[Don't be a NPC]]
 - [[DS PYQs]]
 - [[DS Questions]]
 - [[Email]]
