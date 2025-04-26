@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/hello.md",
+                "file": "_Quick Notes/Show your work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "Show your work"
             }
           }
         ],
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Quick Notes/hello.md"
+                "file": "_Quick Notes/Show your work.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for hello"
+              "title": "File properties for Show your work"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/hello.md",
+                "file": "_Quick Notes/Show your work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hello"
+              "title": "Outline of Show your work"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/hello.md",
+                "file": "_Quick Notes/Show your work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hello"
+              "title": "Graph of Show your work"
             }
           },
           {
@@ -266,7 +266,7 @@
   "active": "5f35e67576588d5e",
   "lastOpenFiles": [
     "null/null.md",
-    "_Quick Notes/hello.md",
+    "_Quick Notes/Show your work.md",
     "null",
     "TEMPLATES/Book Note.md",
     "_Quick Notes/Don't be a NPC.md",
