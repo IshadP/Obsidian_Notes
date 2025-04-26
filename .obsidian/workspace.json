@@ -37,30 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled 2.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "4d348151f04aae70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "null/null.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "null"
+              "title": "_Quick Notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,11 +105,12 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "null/null.md"
+                "file": "_Quick Notes/_Quick Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for null"
+              "title": "File properties for _Quick Notes"
             }
           },
           {
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "null/null.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of null"
+              "title": "Outline of _Quick Notes"
             }
           },
           {
@@ -209,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "null/null.md",
+                "file": "_Quick Notes/_Quick Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of null"
+              "title": "Graph of _Quick Notes"
             }
           },
           {
@@ -291,11 +278,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4d348151f04aae70",
+  "active": "f36f8ae8a42a5f60",
   "lastOpenFiles": [
+    "null/null.md",
     "null",
     "_Quick Notes/Untitled 2.md",
-    "null/null.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/Book Note.md",
     "_Quick Notes/Untitled 1.md",
@@ -307,7 +294,6 @@
     "TEMPLATES/CourseNote.md",
     "TEMPLATES/ArticleNote.md",
     "_Quick Notes/Show your work.md",
-    "null/null.md",
     "_Quick Notes/Don't be a NPC.md",
     "_Quick Notes/Untitled.md",
     "_Quick Notes/Show Your Work.md",
