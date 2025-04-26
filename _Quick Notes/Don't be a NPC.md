@@ -8,4 +8,5 @@
 ## Things you need to achieve something
 1. Figure out, how to things figure things out
 2. Build a learning strategy
-3. 
+3. Avoid paths that don't allow failure
+4. 
