@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_Quick Notes/Untitled 1.md",
+      "timestamp": 1745691604270
+    },
+    {
       "filepath": "TEMPLATES/RegularNote.md",
       "timestamp": 1745691499112
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "TEMPLATES/IndexNote.md",
       "timestamp": 1745691494860
-    },
-    {
-      "filepath": "TEMPLATES/Daily Note.md",
-      "timestamp": 1745691494441
     }
   ],
   "bookmarkedFileStore": [],
