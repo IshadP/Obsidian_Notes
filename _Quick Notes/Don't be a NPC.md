@@ -9,4 +9,4 @@
 1. Figure out, how to things figure things out
 2. Build a learning strategy
 3. Avoid paths that don't allow failure
-4. 
+4. Growth Mindset
