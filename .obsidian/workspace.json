@@ -37,16 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled 1.md",
+                "file": "_Quick Notes/Untitled 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "4d348151f04aae70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/Untitled 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled 3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Quick Notes/Untitled 1.md"
+                "file": "_Quick Notes/Untitled 3.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 1"
+              "title": "File properties for Untitled 3"
             }
           },
           {
@@ -141,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Untitled 1.md",
+                "file": "_Quick Notes/Untitled 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Untitled 3"
             }
           },
           {
@@ -195,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Untitled 1.md",
+                "file": "_Quick Notes/Untitled 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +237,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 1"
+              "title": "Graph of Untitled 3"
             }
           },
           {
@@ -277,17 +291,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "26db2ef6675d681e",
+  "active": "4d348151f04aae70",
   "lastOpenFiles": [
-    "TEMPLATES/RegularNote.md",
+    "_Quick Notes/Untitled 2.md",
+    "_Quick Notes/Untitled 3.md",
+    "_Quick Notes/_Quick Notes.md",
+    "TEMPLATES/Book Note.md",
     "_Quick Notes/Untitled 1.md",
+    "TEMPLATES/RegularNote.md",
     "TEMPLATES/TEMPLATES.md",
     "TEMPLATES/FolderNote.md",
     "TEMPLATES/IndexNote.md",
     "TEMPLATES/Daily Note.md",
     "TEMPLATES/CourseNote.md",
     "TEMPLATES/ArticleNote.md",
-    "TEMPLATES/Book Note.md",
     "_Quick Notes/Show your work.md",
     "null/null.md",
     "null",
@@ -301,13 +318,10 @@
     "_Quick Notes/ML Answers.md",
     "_Quick Notes/ML Assignment.md",
     "03-ME/cv-en.typ",
-    "_Quick Notes/_Quick Notes.md",
     "_Quick Notes/ScratchPad.md",
     "_Quick Notes/GDGC Brandd Guide.md",
     "_Quick Notes/Changes.md",
     "_Quick Notes/10.md",
-    "_Quick Notes/CD Questions.md",
-    "_Quick Notes/Data Preprocessing.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
     "09-IMAGES/image-5.png",
