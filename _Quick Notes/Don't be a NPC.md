@@ -4,4 +4,6 @@
 ## Bad News
 1. Majority of designers will have mediocre careers.
 2. A mature company doesn't guarantee career growth.
-3. 
+
+## Things you need to achieve something
+1. 
