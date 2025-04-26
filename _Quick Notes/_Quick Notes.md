@@ -39,5 +39,6 @@ tags:
 - [[Show Your Work]]
 - [[Things to buy]]
 - [[Untitled 2]]
+- [[Untitled]]
 
 %% End Waypoint %%
