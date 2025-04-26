@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled 3.md",
+                "file": "null/null.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "null"
             }
           }
         ],
@@ -143,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Quick Notes/Untitled 3.md"
+                "file": "null/null.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 3"
+              "title": "File properties for null"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Untitled 3.md",
+                "file": "null/null.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 3"
+              "title": "Outline of null"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Untitled 3.md",
+                "file": "null/null.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 3"
+              "title": "Graph of null"
             }
           },
           {
@@ -293,8 +293,9 @@
   },
   "active": "4d348151f04aae70",
   "lastOpenFiles": [
+    "null",
     "_Quick Notes/Untitled 2.md",
-    "_Quick Notes/Untitled 3.md",
+    "null/null.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/Book Note.md",
     "_Quick Notes/Untitled 1.md",
@@ -307,7 +308,6 @@
     "TEMPLATES/ArticleNote.md",
     "_Quick Notes/Show your work.md",
     "null/null.md",
-    "null",
     "_Quick Notes/Don't be a NPC.md",
     "_Quick Notes/Untitled.md",
     "_Quick Notes/Show Your Work.md",
@@ -321,7 +321,6 @@
     "_Quick Notes/ScratchPad.md",
     "_Quick Notes/GDGC Brandd Guide.md",
     "_Quick Notes/Changes.md",
-    "_Quick Notes/10.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
     "09-IMAGES/image-5.png",
