@@ -3,7 +3,9 @@ cssclasses:
   - list-cards
   - cards-col-2
 prefer-view: read
-Description:
+Description: 
+tags:
+  - Book
 ---
 <%*  
 const title = await tp.system.prompt("Title");
