@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Show your work.md",
-                "mode": "source",
+                "file": "TEMPLATES/RegularNote.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Show your work"
+              "title": "RegularNote"
             }
           }
         ],
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Quick Notes/Show your work.md"
+                "file": "TEMPLATES/RegularNote.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Show your work"
+              "title": "File properties for RegularNote"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Show your work.md",
+                "file": "TEMPLATES/RegularNote.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Show your work"
+              "title": "Outline of RegularNote"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Show your work.md",
+                "file": "TEMPLATES/RegularNote.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Show your work"
+              "title": "Graph of RegularNote"
             }
           },
           {
@@ -265,14 +265,18 @@
   },
   "active": "5f35e67576588d5e",
   "lastOpenFiles": [
-    "null/null.md",
-    "_Quick Notes/Show your work.md",
-    "null",
-    "TEMPLATES/Book Note.md",
-    "_Quick Notes/Don't be a NPC.md",
-    "TEMPLATES/CourseNote.md",
+    "TEMPLATES/TEMPLATES.md",
+    "TEMPLATES/RegularNote.md",
     "TEMPLATES/FolderNote.md",
+    "TEMPLATES/IndexNote.md",
     "TEMPLATES/Daily Note.md",
+    "TEMPLATES/CourseNote.md",
+    "TEMPLATES/ArticleNote.md",
+    "TEMPLATES/Book Note.md",
+    "_Quick Notes/Show your work.md",
+    "null/null.md",
+    "null",
+    "_Quick Notes/Don't be a NPC.md",
     "_Quick Notes/Untitled.md",
     "_Quick Notes/Show Your Work.md",
     "03-ME/03-ME.md",
@@ -290,10 +294,6 @@
     "_Quick Notes/CD Questions.md",
     "_Quick Notes/Data Preprocessing.md",
     "_Quick Notes/TimeLine for Mini.md",
-    "_Quick Notes/un.md",
-    "_Quick Notes/Todo-CD.md",
-    "02-DESIGN/02-DESIGN.md",
-    "World Index.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
     "09-IMAGES/image-5.png",

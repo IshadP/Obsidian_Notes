@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Quick Notes/Untitled 1.md",
-      "timestamp": 1745675781064
+      "filepath": "TEMPLATES/RegularNote.md",
+      "timestamp": 1745691499112
     },
     {
-      "filepath": "TEMPLATES/Book Note.md",
-      "timestamp": 1745675761260
-    },
-    {
-      "filepath": "_Quick Notes/Don't be a NPC.md",
-      "timestamp": 1745675760117
-    },
-    {
-      "filepath": "TEMPLATES/CourseNote.md",
-      "timestamp": 1745675724096
+      "filepath": "TEMPLATES/TEMPLATES.md",
+      "timestamp": 1745691497476
     },
     {
       "filepath": "TEMPLATES/FolderNote.md",
-      "timestamp": 1745675719667
+      "timestamp": 1745691496266
+    },
+    {
+      "filepath": "TEMPLATES/IndexNote.md",
+      "timestamp": 1745691494860
+    },
+    {
+      "filepath": "TEMPLATES/Daily Note.md",
+      "timestamp": 1745691494441
     }
   ],
   "bookmarkedFileStore": [],
