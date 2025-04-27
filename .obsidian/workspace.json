@@ -45,8 +45,7 @@
               "title": "_Quick Notes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,11 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "_Quick Notes/_Quick Notes.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for _Quick Notes"
+              "title": "File properties"
             }
           },
           {
@@ -196,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _Quick Notes"
+              "title": "Graph view"
             }
           },
           {
@@ -278,12 +273,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f36f8ae8a42a5f60",
+  "active": "a975054d441d3ada",
   "lastOpenFiles": [
+    "_Quick Notes/_Quick Notes.md",
     "null/null.md",
     "null",
     "_Quick Notes/Untitled 2.md",
-    "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/Book Note.md",
     "_Quick Notes/Untitled 1.md",
     "TEMPLATES/RegularNote.md",
