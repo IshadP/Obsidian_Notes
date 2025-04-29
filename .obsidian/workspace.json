@@ -8,41 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a975054d441d3ada",
+            "id": "32d7814b30e00fee",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
               "state": {},
               "icon": "search",
               "title": "Home tab"
-            }
-          },
-          {
-            "id": "5f35e67576588d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMPLATES/RegularNote.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RegularNote"
-            }
-          },
-          {
-            "id": "26db2ef6675d681e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Quick Notes"
             }
           }
         ]
@@ -104,15 +76,16 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -255,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,21 +241,22 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a975054d441d3ada",
+  "active": "32d7814b30e00fee",
   "lastOpenFiles": [
+    "_Quick Notes/CAMP use cases.md",
     "_Quick Notes/_Quick Notes.md",
+    "TEMPLATES/RegularNote.md",
     "null/null.md",
     "null",
     "_Quick Notes/Untitled 2.md",
     "TEMPLATES/Book Note.md",
     "_Quick Notes/Untitled 1.md",
-    "TEMPLATES/RegularNote.md",
     "TEMPLATES/TEMPLATES.md",
     "TEMPLATES/FolderNote.md",
     "TEMPLATES/IndexNote.md",
