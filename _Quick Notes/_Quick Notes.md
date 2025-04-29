@@ -27,6 +27,7 @@ tags:
 - [[Don't be a NPC]]
 - [[DS PYQs]]
 - [[DS Questions]]
+- [[EE Questions]]
 - [[Email]]
 - [[Fake new]]
 - [[GDGC Brandd Guide]]
@@ -39,6 +40,5 @@ tags:
 - [[Show Your Work]]
 - [[Show your work]]
 - [[Things to buy]]
-- [[Untitled]]
 
 %% End Waypoint %%

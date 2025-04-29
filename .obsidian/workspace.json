@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/EE Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "EE Questions"
             }
           }
         ],
@@ -264,7 +264,7 @@
   },
   "active": "74860a1e341be150",
   "lastOpenFiles": [
-    "_Quick Notes/Untitled.md",
+    "_Quick Notes/EE Questions.md",
     "_Quick Notes/CAMP use cases.md",
     "_Quick Notes/_Quick Notes.md",
     "TEMPLATES/RegularNote.md",
