@@ -31,7 +31,8 @@
               "title": "EE Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,7 +262,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32d7814b30e00fee",
+  "active": "74860a1e341be150",
   "lastOpenFiles": [
     "_Quick Notes/EE Questions.md",
     "_Quick Notes/CAMP use cases.md",
