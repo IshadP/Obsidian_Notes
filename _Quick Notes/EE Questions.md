@@ -145,3 +145,31 @@ These are released from **human activities**:
 - Formed in the atmosphere through **chemical reactions** of precursor gases like SO₂, NOₓ, and VOCs.
     
 - Examples: Sulfates, nitrates, secondary organic aerosols (SOAs).
+
+## Env Lapse rate and temp inversion
+#### **Environmental Lapse Rate (ELR)**
+
+The **Environmental Lapse Rate (ELR)** refers to the **actual rate at which atmospheric temperature decreases with an increase in altitude in the surrounding environment**. It is an observed or measured value, which can vary depending on time, location, weather, and surface conditions. On average, the ELR in the troposphere — the lowest layer of the atmosphere — is about **6.5°C per 1,000 meters (or 1 km)**. This average lapse rate assumes a steady decline in temperature as one ascends from the Earth's surface.
+
+Under **normal atmospheric conditions**, the air closer to the Earth's surface is warmer due to heat radiated from the sun and absorbed by the land and water. Warm air, being less dense, tends to rise and is replaced by cooler, denser air from above. As the warm air rises, it enters regions of lower pressure and expands, which causes it to cool. This continuous vertical movement of air supports **mixing of atmospheric layers**, promotes **cloud formation**, and plays a crucial role in **diluting and dispersing air pollutants**. The ELR is a key factor in determining **atmospheric stability**. If the actual ELR is greater than the **adiabatic lapse rate**, the atmosphere is said to be unstable, encouraging vertical air movement. If it is lower, the atmosphere is considered stable, inhibiting vertical mixing.
+
+The ELR is not constant and can be affected by various meteorological factors such as **humidity, surface heating, wind conditions, and geographical location**. For example, during the daytime with strong solar heating, the ELR may increase, leading to instability and convective activity. At night, the surface may cool rapidly, reducing the ELR and promoting stability.
+
+---
+
+#### **Temperature Inversion**
+
+In contrast to the typical decrease in temperature with height described by the ELR, a **temperature inversion** (or **thermal inversion**) is a **reversal of the normal lapse rate**, where temperature **increases with altitude over a certain vertical layer of the atmosphere**. In other words, a layer of **warm air overlays a layer of cooler air near the surface**, creating a cap or lid that **prevents vertical mixing of the atmosphere**. This phenomenon has significant implications for air quality, weather conditions, and public health.
+
+During an inversion, the cooler air near the ground becomes trapped beneath the warmer air above. Since cooler air is denser, it cannot rise easily, and as a result, pollutants such as **smoke, vehicle emissions, industrial discharges, and dust** remain confined near the surface. This leads to **increased concentrations of air pollutants**, which can cause **smog formation**, reduced visibility, and **respiratory health issues**, especially in densely populated urban areas.
+
+Temperature inversions typically occur under **stable, calm atmospheric conditions**, and are more frequent in the **early morning hours**, during **winter**, and in **valley regions** where cold air tends to settle. They can be caused by various mechanisms, including:
+
+- **Radiation inversion**: Occurs at night when the ground loses heat rapidly through radiation, cooling the air near the surface while the upper layers remain warm.
+    
+- **Subsidence inversion**: Associated with high-pressure systems where air descends, compresses, and warms, creating a warm layer aloft.
+    
+- **Frontal inversion**: Occurs when a warm air mass slides over a cooler air mass during the passage of a warm front.
+    
+
+Inversions can last from a few hours to several days, depending on local weather conditions. Prolonged inversions can lead to **hazardous levels of pollution**, as famously seen in events like the **London Smog of 1952** or the recurring winter smog episodes in **Delhi, India**.

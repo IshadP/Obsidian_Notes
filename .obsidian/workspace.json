@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcbe9b334b1ebc14",
+  "active": "74860a1e341be150",
   "lastOpenFiles": [
     "_Quick Notes/EE Questions.md",
     "_Quick Notes/CAMP use cases.md",
