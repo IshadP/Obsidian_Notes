@@ -45,3 +45,103 @@ The Act contains specific provisions for **emergency response and accident preve
 Another salient feature of the Act is the **recognition of public involvement and transparency**. While the Act does not directly provide for citizen suits, it allows any person to file a complaint regarding pollution with the appropriate board. In addition, the boards are required to maintain **public registers** that contain records of consents granted, discharge standards, and enforcement actions, which must be made accessible to the public. This promotes transparency and enables citizens to play a participatory role in environmental governance. Moreover, the Act emphasizes the need for **environmental education and awareness**, thereby recognizing that long-term water conservation efforts depend on an informed and responsible public.
 
 The Act also includes a provision for **inter-state coordination**, which is particularly important in India where many rivers flow across state boundaries. In cases where pollution in one state affects another, the CPCB is empowered to intervene and coordinate the actions of the concerned SPCBs. This promotes a unified national approach to water quality management and helps avoid conflicts between states over shared water resources.
+
+## Types of aerosols
+#### **1. Based on Origin**
+
+##### **a. Natural Aerosols:**
+
+These are aerosols that occur due to **natural processes**:
+
+- **Sea salt aerosols** – Formed by the evaporation of sea spray; commonly found near oceans and coastlines.
+    
+- **Volcanic ash** – Emitted during volcanic eruptions; consists of fine particles of rock and minerals.
+    
+- **Dust and soil particles** – From deserts and dry land surfaces; for example, Sahara dust.
+    
+- **Pollen and spores** – Biological aerosols from plants and fungi.
+    
+- **Forest fire smoke** – Naturally occurring wildfires emit large amounts of carbonaceous particles.
+    
+- **Biogenic volatile organic compounds (BVOCs)** – Emitted by plants and trees, which can form secondary organic aerosols.
+    
+
+##### **b. Anthropogenic Aerosols:**
+
+These are released from **human activities**:
+
+- **Industrial emissions** – Sulfates, nitrates, and heavy metals from power plants and factories.
+    
+- **Vehicle exhaust** – Includes soot (black carbon), hydrocarbons, and secondary aerosols.
+    
+- **Burning of fossil fuels and biomass** – Releases smoke, black carbon, and organic particles.
+    
+- **Construction activities and mining** – Generate dust and fine particles.
+    
+
+---
+
+#### **2. Based on Composition or Chemical Nature**
+
+##### **a. Sulfate Aerosols:**
+
+- Formed mainly from **sulfur dioxide (SO₂)** emitted by fossil fuel combustion and volcanoes.
+    
+- Reflect sunlight and **cool the Earth's surface**.
+    
+- Major contributors to **acid rain**.
+    
+
+##### **b. Nitrate Aerosols:**
+
+- Formed from **nitrogen oxides (NOₓ)**, especially from vehicle and industrial emissions.
+    
+- Contribute to **particulate matter (PM2.5)** and **acidification** of rain.
+    
+
+##### **c. Carbonaceous Aerosols:**
+
+- **Black Carbon (BC)** – Strongly absorbs sunlight; contributes to **global warming**.
+    
+- **Organic Carbon (OC)** – Can scatter sunlight; comes from combustion of organic materials and vegetation.
+    
+
+##### **d. Mineral Dust:**
+
+- Comprised of **silicates, calcium, iron**, and other minerals.
+    
+- Originates from **arid and semi-arid regions**.
+    
+- Can travel long distances and affect atmospheric chemistry.
+    
+
+##### **e. Sea Salt Aerosols:**
+
+- Rich in **sodium chloride (NaCl)** and formed by **bubble bursting at the ocean surface**.
+    
+- Influence **cloud formation** and act as **cloud condensation nuclei (CCN)**.
+    
+
+##### **f. Biological Aerosols:**
+
+- Include **bacteria, viruses, pollen, fungal spores, and fragments of plants or animals**.
+    
+- Important for both environmental processes and **public health (allergies, infections)**.
+    
+
+---
+
+#### **3. Based on Formation Mechanism**
+
+##### **a. Primary Aerosols:**
+
+- Directly emitted into the atmosphere.
+    
+- Examples: Sea salt, dust, pollen, soot.
+    
+
+##### **b. Secondary Aerosols:**
+
+- Formed in the atmosphere through **chemical reactions** of precursor gases like SO₂, NOₓ, and VOCs.
+    
+- Examples: Sulfates, nitrates, secondary organic aerosols (SOAs).

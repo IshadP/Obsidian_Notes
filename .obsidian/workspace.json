@@ -115,9 +115,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "_Quick Notes/EE Questions.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for EE Questions"
             }
           },
           {
@@ -126,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/_Quick Notes.md",
+                "file": "_Quick Notes/EE Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Quick Notes"
+              "title": "Outline of EE Questions"
             }
           },
           {
@@ -168,7 +170,8 @@
               "title": "Outgoing links from Session Note 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a6a49fc4829edd13",
@@ -180,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Quick Notes/EE Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of EE Questions"
             }
           },
           {
@@ -243,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74860a1e341be150",
+  "active": "bcbe9b334b1ebc14",
   "lastOpenFiles": [
     "_Quick Notes/EE Questions.md",
     "_Quick Notes/CAMP use cases.md",
