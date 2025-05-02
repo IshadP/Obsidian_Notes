@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/Show Your Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Show Your Works"
             }
           }
         ],
@@ -272,7 +272,7 @@
   "active": "70f2d1c818397665",
   "lastOpenFiles": [
     "_Quick Notes/_Quick Notes.md",
-    "_Quick Notes/Untitled.md",
+    "_Quick Notes/Show Your Works.md",
     "README.md",
     "02-DESIGN/2-THEORY/UX/UX.md",
     "_Quick Notes/EE Questions.md",
