@@ -16,3 +16,4 @@ tags:
 ## The Vampire Test
 -> If you find a vampire of your life, banish him by avoiding him at all cost
 
+## Find your hood and preserve them
