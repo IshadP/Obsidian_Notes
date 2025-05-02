@@ -11,10 +11,10 @@
             "id": "32d7814b30e00fee",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
+              "type": "graph",
               "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -253,6 +253,8 @@
   },
   "active": "32d7814b30e00fee",
   "lastOpenFiles": [
+    "README.md",
+    "02-DESIGN/2-THEORY/UX/UX.md",
     "_Quick Notes/EE Questions.md",
     "_Quick Notes/CAMP use cases.md",
     "_Quick Notes/_Quick Notes.md",
@@ -280,7 +282,6 @@
     "03-ME/cv-en.typ",
     "_Quick Notes/ScratchPad.md",
     "_Quick Notes/GDGC Brandd Guide.md",
-    "_Quick Notes/Changes.md",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
     "09-IMAGES/image-5.png",
