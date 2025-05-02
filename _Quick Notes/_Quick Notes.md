@@ -38,7 +38,6 @@ tags:
 - [[ScratchPad]]
 - [[Show Your Work]]
 - [[Show your work]]
-- [[Show Your Works]]
 - [[Things to buy]]
 
 %% End Waypoint %%
