@@ -27,6 +27,7 @@ tags:
 - [[Don't be a NPC]]
 - [[DS PYQs]]
 - [[DS Questions]]
+- [[EIT Questins]]
 - [[Email]]
 - [[Fake new]]
 - [[GDGC Brandd Guide]]
@@ -37,7 +38,6 @@ tags:
 - [[NexMeet Page]]
 - [[ScratchPad]]
 - [[Show Your Work]]
-- [[Show your work]]
 - [[Things to buy]]
 
 %% End Waypoint %%
