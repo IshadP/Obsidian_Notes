@@ -64,3 +64,5 @@ Understanding XED helps businesses and governments anticipate how changes in mar
 **Advertising Elasticity of Demand (AED)**, though less commonly discussed in basic economic theory, is important for firms. It measures how responsive demand is to changes in advertising expenditure. Firms use AED to assess the effectiveness of marketing campaigns. For example, if a 10% increase in advertising spending leads to a 5% increase in sales, the AED is 0.5. A low AED suggests diminishing returns on marketing, prompting firms to adjust their strategy.
 
 While elasticity provides powerful insights, it also has **limitations**. Elasticity values vary between market segments, regions, and time periods. For example, short-run PED may be low (inelastic), but in the long run, consumers may find substitutes, making demand more elastic. Moreover, accurately calculating elasticity requires reliable data, which is often difficult to obtain in developing economies or volatile markets.
+
+## 
