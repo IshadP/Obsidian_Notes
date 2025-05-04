@@ -65,4 +65,17 @@ Understanding XED helps businesses and governments anticipate how changes in mar
 
 While elasticity provides powerful insights, it also has **limitations**. Elasticity values vary between market segments, regions, and time periods. For example, short-run PED may be low (inelastic), but in the long run, consumers may find substitutes, making demand more elastic. Moreover, accurately calculating elasticity requires reliable data, which is often difficult to obtain in developing economies or volatile markets.
 
-## 
+## Business Cycle
+The business cycle refers to the recurring pattern of expansion and contraction in economic activity that occurs over time in a market economy. It comprises several distinct phases that indicate the changing levels of economic activity, measured typically through GDP, employment, production, and income levels. The main phases of the business cycle are expansion, peak, contraction (or recession), and trough.
+
+**1. Expansion:**  
+This is the phase where the economy experiences growth and positive development. During expansion, there is a rise in consumer spending, business investments, employment opportunities, and overall production levels. Demand for goods and services increases, leading to higher profits for businesses and improved living standards. Inflation may begin to rise slowly as economic activity gains momentum. Confidence among consumers and investors is generally high during this period.
+
+**2. Peak:**  
+The peak represents the highest point of economic activity in the business cycle. At this stage, the economy operates at or near full capacity. Employment levels are high, and GDP reaches its maximum. However, growth becomes unsustainable beyond this point, often due to rising inflation or overproduction. The peak is often followed by corrective measures such as higher interest rates or policy changes that lead to a slowdown.
+
+**3. Contraction (or Recession):**  
+In this phase, economic activity begins to decline. Businesses reduce production due to falling demand, leading to job losses and reduced income levels. Investment slows down, consumer confidence weakens, and inflation may fall or turn into deflation. If this phase continues for two consecutive quarters or more, it is generally termed a recession. Recessions can lead to significant economic hardship and require strong policy measures to reverse.
+
+**4. Trough:**  
+The trough marks the lowest point in the business cycle. Economic indicators such as GDP, employment, and output hit their minimum levels. Consumer and business confidence are at their weakest. However, it also signifies the end of the downturn and the beginning of a new phase of recovery. Governments often implement stimulus measures to boost demand and initiate growth.
