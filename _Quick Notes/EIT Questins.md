@@ -104,3 +104,21 @@ To avoid hostile takeovers, companies often adopt **anti-takeover strategies**, 
 - **White Knight Strategy**: The target company seeks a friendly company to acquire it instead of the hostile bidder.
 
 While these strategies protect management and control, they may also **undermine shareholder value** if they prevent beneficial takeovers.
+
+---
+
+Why is recession a bad phenomenon?
+
+Causes of deflation
+
+Labour intensive and capital intensive industry
+
+Explain the concept and importance of top line and bottom line of business organization.
+
+Merits and demerits of ecommerce
+
+Importance of venture capital
+
+Business agility and its importance for business
+
+Organic and inorganic business growth model with real life business example.
