@@ -20,6 +20,7 @@ tags:
 3. Icon
 
 -> Label text is most important for the button, **capitalise first word** and use **proper nouns**. Never wrap label text.
+-> Icons should always be leading the text in button
 
 
 #articles 
