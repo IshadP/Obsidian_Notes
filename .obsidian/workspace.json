@@ -39,10 +39,28 @@
             "id": "33ce044590aac720",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "02-DESIGN/2-THEORY/Material Design/Material Design.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material Design"
+            }
+          },
+          {
+            "id": "0b0290f7d0559fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -60,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -294,8 +312,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33ce044590aac720",
+  "active": "0b0290f7d0559fba",
   "lastOpenFiles": [
+    "02-DESIGN/2-THEORY/Material Design/Material Design.md",
+    "_Quick Notes/Untitled.md",
+    "02-DESIGN/02-DESIGN.md",
     "_Quick Notes/EIT Questins.md",
     "03-ME/Show Your Wok.md",
     "_Quick Notes/_Quick Notes.md",
@@ -320,10 +341,7 @@
     "_Quick Notes/Show Your Work.md",
     "03-ME/03-ME.md",
     "_Quick Notes/DS PYQs.md",
-    "_Quick Notes/DS Questions.md",
     "09-IMAGES/image.png",
-    "_Quick Notes/ML Answers.md",
-    "_Quick Notes/ML Assignment.md",
     "03-ME/cv-en.typ",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
     "09-IMAGES/kmeans_iris_clustering.png",
