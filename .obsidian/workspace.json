@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Buttons.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,10 +162,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Quick Notes/EE Questions.md"
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for EE Questions"
+              "title": "File properties for Buttons"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/EE Questions.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EE Questions"
+              "title": "Outline of Buttons"
             }
           },
           {
@@ -216,8 +216,7 @@
               "title": "Outgoing links from Session Note 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a6a49fc4829edd13",
@@ -229,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/EE Questions.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of EE Questions"
+              "title": "Graph of Buttons"
             }
           },
           {
@@ -312,10 +311,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33ce044590aac720",
+  "active": "0b0290f7d0559fba",
   "lastOpenFiles": [
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
-    "_Quick Notes/Buttons.md",
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
     "02-DESIGN/02-DESIGN.md",
     "_Quick Notes/EIT Questins.md",
     "03-ME/Show Your Wok.md",
@@ -340,7 +340,6 @@
     "_Quick Notes/Don't be a NPC.md",
     "_Quick Notes/Show Your Work.md",
     "03-ME/03-ME.md",
-    "_Quick Notes/DS PYQs.md",
     "09-IMAGES/image.png",
     "03-ME/cv-en.typ",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
