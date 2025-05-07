@@ -19,6 +19,6 @@ tags:
 2. Body
 3. Icon
 
-
+-> Label text is most important for the button, **capitalise first word** and use **proper nouns**.
 
 #articles 
