@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/Material Design/Material Design.md",
+                "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Material Design"
+              "title": "Badges"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/Buttons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Buttons"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -312,10 +312,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b0290f7d0559fba",
+  "active": "33ce044590aac720",
   "lastOpenFiles": [
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
-    "_Quick Notes/Untitled.md",
+    "_Quick Notes/Buttons.md",
     "02-DESIGN/02-DESIGN.md",
     "_Quick Notes/EIT Questins.md",
     "03-ME/Show Your Wok.md",
