@@ -56,11 +56,21 @@
               "type": "markdown",
               "state": {
                 "file": "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Buttons"
+            }
+          },
+          {
+            "id": "3ba3003559d17a7d",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           },
           {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -311,12 +321,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b0290f7d0559fba",
+  "active": "3ba3003559d17a7d",
   "lastOpenFiles": [
+    "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
     "09-IMAGES/lwp18tk4-9.png",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
-    "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
     "02-DESIGN/02-DESIGN.md",
     "_Quick Notes/EIT Questins.md",
     "03-ME/Show Your Wok.md",
@@ -351,7 +361,6 @@
     "09-IMAGES/Figure_1-1.png",
     "09-IMAGES/image-3.png",
     "09-IMAGES/Figure_3.png",
-    "09-IMAGES/Figure_2.png",
     "02-DESIGN/2-THEORY/COURSES/UXdesign.cc",
     "02-DESIGN/2-THEORY/Material Design/Component Guides",
     "TEMPLATES",
