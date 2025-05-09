@@ -64,16 +64,6 @@
             }
           },
           {
-            "id": "3ba3003559d17a7d",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
             "id": "960d34fcd6ef1ece",
             "type": "leaf",
             "state": {
@@ -102,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,7 +325,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "960d34fcd6ef1ece",
+  "active": "0b0290f7d0559fba",
   "lastOpenFiles": [
     "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
