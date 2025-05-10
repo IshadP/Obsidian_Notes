@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Assumptions"
             }
+          },
+          {
+            "id": "7e0174013892f921",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,12 +265,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "960d34fcd6ef1ece",
+  "active": "7e0174013892f921",
   "lastOpenFiles": [
+    "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
     "03-ME/Show Your Wok.md",
-    "_Quick Notes/Assumptions.md",
     "09-IMAGES/lwp18tk4-9.png",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
     "02-DESIGN/02-DESIGN.md",
