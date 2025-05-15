@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_Quick Notes/Assumptions.md",
-      "timestamp": 1746770237692
+      "filepath": "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
+      "timestamp": 1747329244901
+    },
+    {
+      "filepath": "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
+      "timestamp": 1747329068528
     }
   ],
   "bookmarkedFileStore": [],

@@ -16,6 +16,7 @@ cssclasses:
 - [[Medium Article Guide]]
 - [[Product Strategy]]
 - [[Product Vision]]
+- [[Project Doing Guide]]
 - [[Typrography Basics]]
 - [[University-Program]]
 
