@@ -3,8 +3,9 @@ prefer-view: read
 cssclasses:
   - list-cards
   - cards-col-2
-url: 
+url: https://www.wallofportfolios.in
 tags:
   - "#article"
 ---
-#articles #accessibility 
+-> Ways to define problems and context
+![[image-6.png]]
