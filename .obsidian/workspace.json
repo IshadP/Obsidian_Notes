@@ -36,6 +36,30 @@
             }
           },
           {
+            "id": "9a3cbb8c8573b7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/_Quick Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Quick Notes"
+            }
+          },
+          {
+            "id": "6575b25a51520ff9",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "feb364c5b9a5eeb2",
             "type": "leaf",
             "state": {
@@ -50,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +234,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +261,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ARTICLES"
+              "title": "Graph view"
             }
           },
           {
@@ -292,8 +315,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e0174013892f921",
+  "active": "6575b25a51520ff9",
   "lastOpenFiles": [
+    "_Quick Notes/_Quick Notes.md",
+    "World Index.md",
+    "01-COLLEGE/01-COLLEGE.md",
+    "02-DESIGN/02-DESIGN.md",
+    "03-ME/03-ME.md",
+    "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
     "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
@@ -301,9 +330,7 @@
     "03-ME/Show Your Wok.md",
     "09-IMAGES/lwp18tk4-9.png",
     "02-DESIGN/2-THEORY/Material Design/Material Design.md",
-    "02-DESIGN/02-DESIGN.md",
     "_Quick Notes/EIT Questins.md",
-    "_Quick Notes/_Quick Notes.md",
     "README.md",
     "02-DESIGN/2-THEORY/UX/UX.md",
     "_Quick Notes/EE Questions.md",
@@ -318,10 +345,6 @@
     "TEMPLATES/FolderNote.md",
     "TEMPLATES/IndexNote.md",
     "TEMPLATES/Daily Note.md",
-    "TEMPLATES/CourseNote.md",
-    "TEMPLATES/ArticleNote.md",
-    "_Quick Notes/Show your work.md",
-    "_Quick Notes/Don't be a NPC.md",
     "09-IMAGES/image.png",
     "03-ME/cv-en.typ",
     "09-IMAGES/Screenshot From 2025-04-13 12-54-02.png",
