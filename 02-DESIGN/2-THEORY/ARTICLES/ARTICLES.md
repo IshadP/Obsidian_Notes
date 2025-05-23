@@ -14,6 +14,7 @@ cssclasses:
 - [[Guide to Product Design SM]]
 - [[How to conduct Effective Competitve analysis]]
 - [[Medium Article Guide]]
+- [[Portfolio Lookouts]]
 - [[Product Strategy]]
 - [[Product Vision]]
 - [[Project Doing Guide]]

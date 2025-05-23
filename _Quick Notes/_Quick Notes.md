@@ -37,7 +37,6 @@ tags:
 - [[MINI Project]]
 - [[ML Assignment]]
 - [[NexMeet Page]]
-- [[Portfolio Lookouts]]
 - [[ScratchPad]]
 - [[Show Your Work]]
 - [[Things to buy]]
