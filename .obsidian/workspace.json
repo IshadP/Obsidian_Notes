@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Session on AI in UX.md",
+                "file": "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session on AI in UX"
+              "title": "AI in UX"
             }
           },
           {
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Session on AI in UX.md",
+                "file": "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +290,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session on AI in UX"
+              "title": "Graph of AI in UX"
             }
           },
           {
@@ -346,7 +346,7 @@
   },
   "active": "a5d243e9da800bc3",
   "lastOpenFiles": [
-    "_Quick Notes/Session on AI in UX.md",
+    "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
     "09-IMAGES/image-6.png",
     "_Quick Notes/_Quick Notes.md",

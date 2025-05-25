@@ -38,7 +38,6 @@ tags:
 - [[ML Assignment]]
 - [[NexMeet Page]]
 - [[ScratchPad]]
-- [[Session on AI in UX]]
 - [[Show Your Work]]
 - [[Things to buy]]
 
