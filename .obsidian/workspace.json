@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +262,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AI in UX"
+              "title": "Graph view"
             }
           },
           {
@@ -344,7 +343,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5d243e9da800bc3",
+  "active": "6575b25a51520ff9",
   "lastOpenFiles": [
     "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
