@@ -33,6 +33,7 @@ tags:
 - [[Fake new]]
 - [[GDGC Brandd Guide]]
 - [[Hackathon Design Requirements]]
+- [[Imaginary Ideas]]
 - [[Mini Project Diagram Questions]]
 - [[MINI Project]]
 - [[ML Assignment]]
@@ -40,6 +41,5 @@ tags:
 - [[ScratchPad]]
 - [[Show Your Work]]
 - [[Things to buy]]
-- [[Untitled]]
 
 %% End Waypoint %%

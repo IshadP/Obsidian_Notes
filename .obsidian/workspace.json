@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/Imaginary Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Imaginary Ideas"
             }
           },
           {
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/Imaginary Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Imaginary Ideas"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
+                "file": "_Quick Notes/Imaginary Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Imaginary Ideas"
             }
           },
           {
@@ -361,7 +361,7 @@
   },
   "active": "8e909d1b98cf57de",
   "lastOpenFiles": [
-    "_Quick Notes/Untitled.md",
+    "_Quick Notes/Imaginary Ideas.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
     "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
