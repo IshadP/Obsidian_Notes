@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Imaginary Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Imaginary Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -277,7 +276,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Imaginary Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +303,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Imaginary Ideas"
+              "title": "Graph view"
             }
           },
           {
@@ -359,7 +357,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e909d1b98cf57de",
+  "active": "6575b25a51520ff9",
   "lastOpenFiles": [
     "_Quick Notes/Imaginary Ideas.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
