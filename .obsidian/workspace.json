@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,13 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -291,7 +290,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Quick Notes/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,7 +317,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             }
           },
           {
@@ -373,7 +371,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e58ec4b0a2e531b",
+  "active": "6575b25a51520ff9",
   "lastOpenFiles": [
     "_Quick Notes/Untitled.md",
     "_Quick Notes/Imaginary Ideas.md",
