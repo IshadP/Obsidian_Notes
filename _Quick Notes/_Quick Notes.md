@@ -33,6 +33,7 @@ tags:
 - [[Fake new]]
 - [[GDGC Brandd Guide]]
 - [[Hackathon Design Requirements]]
+- [[How to train to be Visible]]
 - [[Imaginary Ideas]]
 - [[Mini Project Diagram Questions]]
 - [[MINI Project]]
