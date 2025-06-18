@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Learning to See.md",
-                "mode": "source",
+                "file": "02-DESIGN/2-THEORY/ARTICLES/Learning to See.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -291,10 +290,15 @@
   },
   "active": "47fe26fdc37b95a6",
   "lastOpenFiles": [
-    "World Index.md",
-    "Clippings/Learning to See.md",
-    "Clippings",
+    "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
+    "02-DESIGN/02-DESIGN.md",
+    "03-ME/03-ME.md",
+    "01-COLLEGE/01-COLLEGE.md",
+    "_Quick Notes/_Quick Notes.md",
     "_Quick Notes/How to train to be Visible.md",
+    "02-DESIGN/2-THEORY/ARTICLES/Learning to See.md",
+    "World Index.md",
+    "Clippings",
     "09-IMAGES/image-18.png",
     "09-IMAGES/image-17.png",
     "09-IMAGES/image-16.png",
@@ -305,17 +309,12 @@
     "09-IMAGES/image-11.png",
     "09-IMAGES/image-10.png",
     "09-IMAGES/image-9.png",
-    "_Quick Notes/_Quick Notes.md",
-    "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
     "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
     "02-DESIGN/2-THEORY/COURSES/AI in UX.md",
     "_Quick Notes/Imaginary Ideas.md",
     "_Quick Notes/Untitled.md",
-    "01-COLLEGE/01-COLLEGE.md",
-    "02-DESIGN/02-DESIGN.md",
-    "03-ME/03-ME.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Buttons.md",
     "02-DESIGN/2-THEORY/Material Design/Component Guides/Badges.md",
     "03-ME/Show Your Wok.md",

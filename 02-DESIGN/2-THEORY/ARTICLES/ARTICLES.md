@@ -13,6 +13,7 @@ cssclasses:
 - [[Guide to Information Architecture]]
 - [[Guide to Product Design SM]]
 - [[How to conduct Effective Competitve analysis]]
+- [[Learning to See]]
 - [[Medium Article Guide]]
 - [[Portfolio Lookouts]]
 - [[Product Strategy]]
