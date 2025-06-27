@@ -15,9 +15,9 @@
               "state": {
                 "file": "Inspiration.canvas",
                 "viewState": {
-                  "x": -11331.411115379586,
-                  "y": -6846.696346155598,
-                  "zoom": 0.3333333333333333
+                  "x": -11244.22110266993,
+                  "y": -6829.924300003051,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -269,6 +269,7 @@
   },
   "active": "cbd5e868ba7f85ef",
   "lastOpenFiles": [
+    "09-IMAGES/t04g40ah.png",
     "09-IMAGES/2benem0i.png",
     "Inspiration.canvas",
     "_Quick Notes/Untitled 1.md",
