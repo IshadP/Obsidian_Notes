@@ -11,31 +11,20 @@
             "id": "cbd5e868ba7f85ef",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
-            "id": "e3f00795670fc661",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Inspiration.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -4
+                  "x": -11636.985817883464,
+                  "y": -6880.825468772914,
+                  "zoom": 0.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Inspiration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +267,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3f00795670fc661",
+  "active": "cbd5e868ba7f85ef",
   "lastOpenFiles": [
-    "_Quick Notes/Untitled 1.md",
+    "09-IMAGES/2benem0i.png",
     "Inspiration.canvas",
+    "_Quick Notes/Untitled 1.md",
     "_Quick Notes/How to train to be Visible.md",
     "02-DESIGN/2-THEORY/ARTICLES/Learning to See.md",
     "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
@@ -300,7 +290,6 @@
     "09-IMAGES/image-12.png",
     "09-IMAGES/image-11.png",
     "09-IMAGES/image-10.png",
-    "09-IMAGES/image-9.png",
     "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
