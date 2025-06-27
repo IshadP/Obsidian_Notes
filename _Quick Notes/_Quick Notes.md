@@ -42,6 +42,7 @@ tags:
 - [[ScratchPad]]
 - [[Show Your Work]]
 - [[Things to buy]]
+- [[Untitled 1]]
 - [[Untitled]]
 
 %% End Waypoint %%
