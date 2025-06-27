@@ -23,15 +23,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Inspiration.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
-                  "zoom": 0
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Inspiration"
             }
           }
         ],
@@ -281,7 +281,7 @@
   "active": "e3f00795670fc661",
   "lastOpenFiles": [
     "_Quick Notes/Untitled 1.md",
-    "Untitled.canvas",
+    "Inspiration.canvas",
     "_Quick Notes/How to train to be Visible.md",
     "02-DESIGN/2-THEORY/ARTICLES/Learning to See.md",
     "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
