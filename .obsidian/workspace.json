@@ -15,16 +15,27 @@
               "state": {
                 "file": "Inspiration.canvas",
                 "viewState": {
-                  "x": -11244.22110266993,
-                  "y": -6829.924300003051,
-                  "zoom": -0.6666666666666667
+                  "x": -11275.65918286897,
+                  "y": -6842.056410704861,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Inspiration"
             }
+          },
+          {
+            "id": "234f5df90d771db5",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -267,11 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbd5e868ba7f85ef",
+  "active": "234f5df90d771db5",
   "lastOpenFiles": [
+    "Inspiration.canvas",
     "09-IMAGES/t04g40ah.png",
     "09-IMAGES/2benem0i.png",
-    "Inspiration.canvas",
     "_Quick Notes/Untitled 1.md",
     "_Quick Notes/How to train to be Visible.md",
     "02-DESIGN/2-THEORY/ARTICLES/Learning to See.md",
@@ -290,7 +302,6 @@
     "09-IMAGES/image-13.png",
     "09-IMAGES/image-12.png",
     "09-IMAGES/image-11.png",
-    "09-IMAGES/image-10.png",
     "_Quick Notes/Assumptions.md",
     "02-DESIGN/2-THEORY/ARTICLES/Project Doing Guide.md",
     "02-DESIGN/2-THEORY/ARTICLES/Portfolio Lookouts.md",
