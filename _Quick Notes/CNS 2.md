@@ -1,161 +1,146 @@
 ```java
-import java.io.*;
 import java.util.*;
 
-class Playfair {
-    String key;
-    String plainText;
-    char[][] matrix = new char[5][5];
+public class PlayfairCipher {
+    private char[][] matrix = new char[5][5];
+    private Map<Character, int[]> charPosMap = new HashMap<>();
 
-    public Playfair(String key, String plainText) {
-        this.key = key.toLowerCase();
-        this.plainText = plainText.toLowerCase();
+    public PlayfairCipher(String key) {
+        generateMatrix(key);
     }
 
-    public void cleanPlayFairKey() {
-        LinkedHashSet<Character> set = new LinkedHashSet<Character>();
-        String newKey = "";
-        for (int i = 0; i < key.length(); i++)
-            set.add(key.charAt(i));
-        Iterator<Character> it = set.iterator();
-        while (it.hasNext())
-            newKey += (Character) it.next();
-        key = newKey;
-    }
+    // Generate 5x5 matrix
+    private void generateMatrix(String key) {
+        StringBuilder sb = new StringBuilder();
+        Set<Character> seen = new LinkedHashSet<>();
 
-    public void generateCipherKey() {
-        Set<Character> set = new HashSet<Character>();
-        for (int i = 0; i < key.length(); i++) {
-            if (key.charAt(i) == 'j')
-                continue;
-            set.add(key.charAt(i));
+        key = key.toLowerCase().replaceAll("[^a-z]", "").replace("j", "i");
+
+        for (char c : key.toCharArray()) {
+            seen.add(c);
         }
 
-        String tempKey = new String(key);
-        for (int i = 0; i < 26; i++) {
-            char ch = (char) (i + 97);
-            if (ch == 'j')
-                continue;
-            if (!set.contains(ch))
-                tempKey += ch;
+        for (char c = 'a'; c <= 'z'; c++) {
+            if (c == 'j') continue;
+            seen.add(c);
         }
 
-        for (int i = 0, idx = 0; i < 5; i++)
-            for (int j = 0; j < 5; j++)
-                matrix[i][j] = tempKey.charAt(idx++);
-
-        System.out.println("Playfair Cipher Key Matrix:");
-        for (int i = 0; i < 5; i++)
-            System.out.println(Arrays.toString(matrix[i]));
-    }
-
-    public String formatPlainText() {
-        String message = "";
-        int len = plainText.length();
-
-        for (int i = 0; i < len; i++) {
-            if (plainText.charAt(i) == 'j')
-                message += 'i';
-            else
-                message += plainText.charAt(i);
-        }
-
-        for (int i = 0; i < message.length(); i += 2) {
-            if (message.charAt(i) == message.charAt(i + 1))
-                message = message.substring(0, i + 1) + 'x' + message.substring(i + 1);
-        }
-
-        if (message.length() % 2 == 1)
-            message += 'x';
-
-        return message;
-    }
-
-    public String[] formPairs(String message) {
-        int len = message.length();
-        String[] pairs = new String[len / 2];
-        for (int i = 0, cnt = 0; i < len / 2; i++)
-            pairs[i] = message.substring(cnt, cnt += 2);
-        return pairs;
-    }
-
-    public int[] getCharPos(char ch) {
-        int[] keyPos = new int[2];
+        Iterator<Character> it = seen.iterator();
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {
-                if (matrix[i][j] == ch) {
-                    keyPos[0] = i;
-                    keyPos[1] = j;
-                    break;
+                char ch = it.next();
+                matrix[i][j] = ch;
+                charPosMap.put(ch, new int[]{i, j});
+            }
+        }
+    }
+
+    // Prepare input text
+    private String prepareText(String text, boolean encrypting) {
+        text = text.toLowerCase().replaceAll("[^a-z]", "").replace("j", "i");
+
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < text.length(); i++) {
+            char first = text.charAt(i);
+            char second = 'x';
+
+            if (i + 1 < text.length()) {
+                second = text.charAt(i + 1);
+                if (first == second) {
+                    second = 'x';
+                } else {
+                    i++;
                 }
             }
+
+            sb.append(first).append(second);
         }
-        return keyPos;
+
+        if (sb.length() % 2 != 0) sb.append('x');
+        return sb.toString();
     }
 
-    public String encryptMessage() {
-        String message = formatPlainText();
-        String[] msgPairs = formPairs(message);
-        String encText = "";
+    // Encrypt
+    public String encrypt(String text) {
+        text = prepareText(text, true);
+        StringBuilder sb = new StringBuilder();
 
-        for (int i = 0; i < msgPairs.length; i++) {
-            char ch1 = msgPairs[i].charAt(0);
-            char ch2 = msgPairs[i].charAt(1);
-            int[] ch1Pos = getCharPos(ch1);
-            int[] ch2Pos = getCharPos(ch2);
+        for (int i = 0; i < text.length(); i += 2) {
+            char a = text.charAt(i);
+            char b = text.charAt(i + 1);
+            int[] posA = charPosMap.get(a);
+            int[] posB = charPosMap.get(b);
 
-            if (ch1Pos[0] == ch2Pos[0]) {
-                ch1Pos[1] = (ch1Pos[1] + 1) % 5;
-                ch2Pos[1] = (ch2Pos[1] + 1) % 5;
-            } else if (ch1Pos[1] == ch2Pos[1]) {
-                ch1Pos[0] = (ch1Pos[0] + 1) % 5;
-                ch2Pos[0] = (ch2Pos[0] + 1) % 5;
+            if (posA[0] == posB[0]) {
+                sb.append(matrix[posA[0]][(posA[1] + 1) % 5]);
+                sb.append(matrix[posB[0]][(posB[1] + 1) % 5]);
+            } else if (posA[1] == posB[1]) {
+                sb.append(matrix[(posA[0] + 1) % 5][posA[1]]);
+                sb.append(matrix[(posB[0] + 1) % 5][posB[1]]);
             } else {
-                int temp = ch1Pos[1];
-                ch1Pos[1] = ch2Pos[1];
-                ch2Pos[1] = temp;
+                sb.append(matrix[posA[0]][posB[1]]);
+                sb.append(matrix[posB[0]][posA[1]]);
             }
-
-            encText = encText + matrix[ch1Pos[0]][ch1Pos[1]] + matrix[ch2Pos[0]][ch2Pos[1]];
         }
-
-        return encText;
+        return sb.toString();
     }
-}
 
-public class GFG {
+    // Decrypt
+    public String decrypt(String text) {
+        text = text.toLowerCase().replaceAll("[^a-z]", "");
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 0; i < text.length(); i += 2) {
+            char a = text.charAt(i);
+            char b = text.charAt(i + 1);
+            int[] posA = charPosMap.get(a);
+            int[] posB = charPosMap.get(b);
+
+            if (posA[0] == posB[0]) {
+                sb.append(matrix[posA[0]][(posA[1] + 4) % 5]);
+                sb.append(matrix[posB[0]][(posB[1] + 4) % 5]);
+            } else if (posA[1] == posB[1]) {
+                sb.append(matrix[(posA[0] + 4) % 5][posA[1]]);
+                sb.append(matrix[(posB[0] + 4) % 5][posB[1]]);
+            } else {
+                sb.append(matrix[posA[0]][posB[1]]);
+                sb.append(matrix[posB[0]][posA[1]]);
+            }
+        }
+        return sb.toString();
+    }
+
+    // Print Matrix (Optional)
+    public void printMatrix() {
+        for (char[] row : matrix) {
+            for (char ch : row) {
+                System.out.print(ch + " ");
+            }
+            System.out.println();
+        }
+    }
+
+    // Main method
     public static void main(String[] args) {
-        System.out.println("Example-1\n");
+        String key = "Monarchy";
+        String plainText = "Hello World";
 
-        String key1 = "Problem";
-        String plainText1 = "Playfair";
+        PlayfairCipher cipher = new PlayfairCipher(key);
 
-        System.out.println("Key: " + key1);
-        System.out.println("PlainText: " + plainText1);
+        System.out.println("=== Playfair Cipher ===");
+        System.out.println("Key: " + key);
+        System.out.println("Plain Text: " + plainText);
 
-        Playfair pfc1 = new Playfair(key1, plainText1);
-        pfc1.cleanPlayFairKey();
-        pfc1.generateCipherKey();
+        String encrypted = cipher.encrypt(plainText);
+        System.out.println("Encrypted: " + encrypted);
 
-        String encText1 = pfc1.encryptMessage();
-        System.out.println("Cipher Text is: " + encText1);
+        String decrypted = cipher.decrypt(encrypted);
+        System.out.println("Decrypted: " + decrypted);
 
-        System.out.println("\nExample-2\n");
-
-        String key2 = "Problem";
-        String plainText2 = "Hello";
-
-        System.out.println("Key: " + key2);
-        System.out.println("PlainText: " + plainText2);
-
-        Playfair pfc2 = new Playfair(key2, plainText2);
-        pfc2.cleanPlayFairKey();
-        pfc2.generateCipherKey();
-
-        String encText2 = pfc2.encryptMessage();
-        System.out.println("Cipher Text is: " + encText2);
+        System.out.println("\nPhrase: Ishad Pande 25");
     }
 }
+
 ```
 
 Output:
