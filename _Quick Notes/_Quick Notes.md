@@ -20,6 +20,7 @@ tags:
 - [[2025-04-18]]
 - [[Assumptions]]
 - [[CAMP use cases]]
+- [[CNS 2]]
 - [[College Pickup]]
 - [[CRT]]
 - [[Data Preprocessing]]
@@ -43,7 +44,6 @@ tags:
 - [[Show Your Work]]
 - [[Things to buy]]
 - [[Untitled 1]]
-- [[Untitled 2]]
 - [[Untitled]]
 
 %% End Waypoint %%
