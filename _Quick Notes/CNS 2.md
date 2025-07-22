@@ -144,3 +144,4 @@ public class PlayfairCipher {
 ```
 
 Output:
+![[image-19.png]]
