@@ -63,3 +63,42 @@ Explain monoalphabetic Cipher in detail and generate Ciphertext for text :
 9 4
 Encrypt the message "Money helps to build infrastructure” using Hill Cipher with the key [ 5 7] A
 Show your calculations and results in detail.
+
+Model Questions
+3.
+(a
+Explain
+in
+detail
+DES,
+Double
+DES
+Triple
+DES
+with diagram.
+7
+(b)
+Describe
+the process
+of
+key
+generation
+in
+AES. 7
+OR
+4.
+(a)
+Differentiate
+Block
+Ciphers
+and Stream
+Ciphers.
+(b)
+Explain
+in
+detail
+Blowfish
+algorithm
+with
+suitable
+diagram.
