@@ -102,3 +102,75 @@ algorithm
 with
 suitable
 diagram.
+
+1.
+a)
+Whatis
+cryptography? Explain Encryption
+and
+Decryption with
+the
+help
+of
+diagram.
+7
+b)
+Explain
+the
+model of
+Symmetric
+encryption.
+7
+OR
+2.
+a)
+Distinguish
+between
+monoalphabetic
+and
+polyalphabetic
+ciphers.
+7
+b)
+Define
+the
+following cryptosystem
+terms:
+7
+a)
+Confidentiality
+b) Authentication
+c)
+Integrity
+3.
+a) Explain
+Block Cipher
+Modes
+of'
+Operation.
+7
+b)
+Explain
+Key
+Distribution
+Scenario
+in
+detail.
+7
+OR
+4.
+a) Differentiate
+between Block
+&
+stream
+ciphers
+in
+detail.
+7
+b)
+Describe
+key
+generation
+of
+AES
+Algorithm.
