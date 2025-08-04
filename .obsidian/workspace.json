@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,10 +302,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "234f5df90d771db5",
+  "active": "ce10339bf2383b2c",
   "lastOpenFiles": [
-    "_Quick Notes/Untitled 2.md",
     "_Quick Notes/CNS 2.md",
+    "_Quick Notes/Untitled 2.md",
     "09-IMAGES/image-19.png",
     "02-DESIGN/2-THEORY/ARTICLES/University-Program.md",
     "02-DESIGN/2-THEORY/ARTICLES/Product Vision.md",
