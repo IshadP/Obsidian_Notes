@@ -28,7 +28,7 @@ Here are all the *unique questions* extracted from the text you provided, organi
 
 ### *3. Algorithms and Cipher Systems*
 
-12. Explain extended Euclidean algorithm with example.
+12. Explain extended Euclidean algorithm with example. **TBD**
 13. Explain block cipher and its components.
 14. Explain Blowfish algorithm in detail.
 15. Explain RC algorithm in detail.
