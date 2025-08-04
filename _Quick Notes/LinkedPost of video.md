@@ -34,3 +34,6 @@ What are your thoughts on this? Let me know you feedback in comments!
 
 ---
 
+Hi [Name]
+
+I'm currently trying to improve my product design skills and would really value your feedback on a recent project. If you're open to a brief review or a quick chat, I’d truly appreciate your time and guidance.
