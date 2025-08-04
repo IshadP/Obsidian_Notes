@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,7 +302,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce10339bf2383b2c",
+  "active": "234f5df90d771db5",
   "lastOpenFiles": [
     "_Quick Notes/Untitled 2.md",
     "_Quick Notes/CNS 2.md",
