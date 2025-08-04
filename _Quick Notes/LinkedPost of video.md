@@ -28,6 +28,6 @@ From suggestions based on what you type to moments where it almost feels like it
 
 This has been an ambitious project of mine, in the works for the past month.
 
-I tried out tons of variations, from changing how where search results are shown to adding entirely new features. It sparked plenty of debate and led to some deep conversations with peers. The feedback, especially from my mentor AA, played a huge role in shaping the design into something more thoughtful and realistic.
+I tried out tons of variations, from changing how where search results are shown to adding entirely new features. It sparked plenty of debate and led to some deep conversations with peers. The feedback, especially from my mentor AA, played a huge role in shaping the design into something more mature and practical
 
-Excited to share what I came up with. Would love to hear your thoughts in the comments!
+Would like to hear 
