@@ -15,3 +15,15 @@ I did variation iterations, from changing the location of a text field to adding
 
 Feel free to drop your thoughts and feedback in comments!
 
+
+**Adding the ability to read your brain — without AI — on YouTube**
+
+Let me introduce you to smart recommendations and filters on YouTube. It’s the go-to app for all things video, but let’s be honest — it often misses the mark when it comes to helping you _actually_ find what you need.
+
+From suggestions based on what you type to moments where it almost feels like it’s reading your mind, YouTube’s search experience has so much potential — and that’s exactly what I’ve been exploring.
+
+This has been an ambitious project of mine, in the works for the past month.
+
+I tried out tons of variations — from changing the position of the search bar to adding entirely new features. It sparked plenty of debate and led to some deep conversations with peers. The feedback, especially from my mentor AA, played a huge role in shaping the design into something more thoughtful and realistic.
+
+Excited to share what I came up with. Would love to hear your thoughts in the comments!
