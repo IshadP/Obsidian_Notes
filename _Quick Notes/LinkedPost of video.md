@@ -24,9 +24,10 @@ Feel free to drop your thoughts and feedback in comments!
 I spent a month redesigning their search experience to make it feel like it does. Youtube is the go-to app for all things video, but we all had that
 "Ah this isn't what I searched for moment". So I came up with a solution!
 
-From suggestions based on what you type to moments where it almost feels like it’s reading your mind, I redesigned Youtube's search experience to 
+From suggestions based on what you type to moments where it almost feels like it’s reading your mind, I redesigned Youtube's search experience to just do that!
+
 This has been an ambitious project of mine, in the works for the past month.
 
-I tried out tons of variations — from changing the position of the search bar to adding entirely new features. It sparked plenty of debate and led to some deep conversations with peers. The feedback, especially from my mentor AA, played a huge role in shaping the design into something more thoughtful and realistic.
+I tried out tons of variations, from changing the position of the search bar to adding entirely new features. It sparked plenty of debate and led to some deep conversations with peers. The feedback, especially from my mentor AA, played a huge role in shaping the design into something more thoughtful and realistic.
 
 Excited to share what I came up with. Would love to hear your thoughts in the comments!
