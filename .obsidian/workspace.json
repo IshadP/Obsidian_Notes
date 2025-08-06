@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,7 +330,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cca0eb17fb8b7ee",
+  "active": "234f5df90d771db5",
   "lastOpenFiles": [
     "_Quick Notes/OT.md",
     "_Quick Notes/LinkedPost of video.md",
