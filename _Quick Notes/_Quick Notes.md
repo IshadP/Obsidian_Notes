@@ -8,10 +8,10 @@ tags:
 ---
 %% Begin Waypoint %%
 - [[CNS 2]]
+- [[CNS Studies]]
 - [[Hackathon Design Requirements]]
 - [[OT]]
+- [[RM]]
 - [[Things to buy]]
-- [[Untitled 2]]
-- [[Untitled 3]]
 
 %% End Waypoint %%
