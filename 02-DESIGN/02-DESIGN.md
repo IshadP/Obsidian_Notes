@@ -8,7 +8,6 @@ cssclasses:
 ---
 %% Begin Waypoint %%
 - **1-PROJECTS**
-	- **[[FNP App Redesign]]**
 - **2-THEORY**
 	- **[[ARTICLES]]**
 	- **[[COURSES]]**

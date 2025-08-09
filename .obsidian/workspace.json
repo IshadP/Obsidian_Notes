@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/1-PROJECTS/FNP App Redesign/FNP App Redesign.md",
+                "file": "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FNP App Redesign"
+              "title": "ARTICLES"
             }
           }
         ]
@@ -266,6 +266,7 @@
   "active": "234f5df90d771db5",
   "lastOpenFiles": [
     "02-DESIGN/02-DESIGN.md",
+    "02-DESIGN/1-PROJECTS/FNP App Redesign/FNP App Redesign.md",
     "_Quick Notes/RM.md",
     "_Quick Notes/CNS Studies.md",
     "_Quick Notes/Untitled 1.md",
@@ -290,7 +291,6 @@
     "_Quick Notes/Don't be a NPC.md",
     "_Quick Notes/Document Guidelines.md",
     "_Quick Notes/Design Sprint at GDGC.md",
-    "_Quick Notes/Data Preprocessing.md",
     "Inspiration.canvas",
     "09-IMAGES/image-19.png",
     "09-IMAGES/t04g40ah.png",
