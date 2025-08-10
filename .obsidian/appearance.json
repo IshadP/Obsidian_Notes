@@ -7,5 +7,7 @@
     "minimal-cards",
     "notion-cards"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

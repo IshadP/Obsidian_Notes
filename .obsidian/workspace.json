@@ -39,10 +39,14 @@
             "id": "5bc1e2c4d7162fd4",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/Hackathon Design Requirements.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hackathon Design Requirements"
             }
           }
         ],
@@ -289,6 +293,7 @@
   },
   "active": "5bc1e2c4d7162fd4",
   "lastOpenFiles": [
+    "_Quick Notes/CNS 2.md",
     "_Quick Notes/Things to buy.md",
     "TEMPLATES/Daily Note.md",
     "02-DESIGN/2-THEORY/ARTICLES/Product Vision.md",
@@ -314,7 +319,6 @@
     "_Quick Notes/Fake new.md",
     "_Quick Notes/Email.md",
     "_Quick Notes/EIT Questins.md",
-    "_Quick Notes/DS Questions.md",
     "Inspiration.canvas",
     "09-IMAGES/image-19.png",
     "09-IMAGES/t04g40ah.png",
