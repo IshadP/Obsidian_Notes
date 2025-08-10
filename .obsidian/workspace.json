@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
+                "file": "TEMPLATES/Daily Note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARTICLES"
+              "title": "Daily Note"
+            }
+          },
+          {
+            "id": "2ae26c62d8ed03ee",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +266,6 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
@@ -263,8 +273,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "234f5df90d771db5",
+  "active": "2ae26c62d8ed03ee",
   "lastOpenFiles": [
+    "TEMPLATES/Daily Note.md",
+    "02-DESIGN/2-THEORY/ARTICLES/Product Vision.md",
+    "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
     "02-DESIGN/02-DESIGN.md",
     "02-DESIGN/1-PROJECTS/FNP App Redesign/FNP App Redesign.md",
     "_Quick Notes/RM.md",
@@ -288,9 +301,6 @@
     "_Quick Notes/EIT Questins.md",
     "_Quick Notes/DS Questions.md",
     "_Quick Notes/DS PYQs.md",
-    "_Quick Notes/Don't be a NPC.md",
-    "_Quick Notes/Document Guidelines.md",
-    "_Quick Notes/Design Sprint at GDGC.md",
     "Inspiration.canvas",
     "09-IMAGES/image-19.png",
     "09-IMAGES/t04g40ah.png",
