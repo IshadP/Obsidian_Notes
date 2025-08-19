@@ -58,9 +58,23 @@
               "icon": "search",
               "title": "Home tab"
             }
+          },
+          {
+            "id": "2cf7b2f5603a977a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Quick Notes/CNS3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CNS3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -301,8 +315,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01313e4e1c9a3f70",
+  "active": "2cf7b2f5603a977a",
   "lastOpenFiles": [
+    "_Quick Notes/CNS3.md",
     "_Quick Notes/Hackathon Design Requirements.md",
     "_Quick Notes/CNS 2.md",
     "_Quick Notes/Things to buy.md",
@@ -314,7 +329,6 @@
     "_Quick Notes/RM.md",
     "_Quick Notes/CNS Studies.md",
     "_Quick Notes/Untitled 1.md",
-    "_Quick Notes/Untitled.md",
     "_Quick Notes/Show Your Work.md",
     "03-ME/ScratchPad.md",
     "_Quick Notes/OT.md",

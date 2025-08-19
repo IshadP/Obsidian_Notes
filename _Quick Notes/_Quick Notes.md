@@ -9,6 +9,7 @@ tags:
 %% Begin Waypoint %%
 - [[CNS 2]]
 - [[CNS Studies]]
+- [[CNS3]]
 - [[Hackathon Design Requirements]]
 - [[OT]]
 - [[RM]]
