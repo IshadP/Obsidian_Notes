@@ -397,44 +397,23 @@ public class Main {
             cip += (char)(cipher[i][0] + 65);
 
         }
-
-  
-
         System.out.println("CiperText: " + cip);
-
-        System.out.println("---------------------------");
-
-  
+        System.out.println("---------------------------");  
 
         int[][] plain = new int[len][1];
 
         Decrypt(cipher, key, plain, len);
 
-  
-
         String pl = "";
-
         for (int i = 0; i < len; i++) {
-
             int charValue = plain[i][0];
-
             if (charValue < 0) {
-
                 charValue += 26;
-
             }
-
             pl += (char)(charValue + 65);
-
         }
-
-  
-
         System.out.println("PlainText: " + pl);
-
     }
-
-  
 
     public static void main(String[] args) {
 
