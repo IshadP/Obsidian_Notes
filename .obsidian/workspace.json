@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Hackathon Design Requirements"
             }
+          },
+          {
+            "id": "01313e4e1c9a3f70",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -291,8 +301,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bc1e2c4d7162fd4",
+  "active": "01313e4e1c9a3f70",
   "lastOpenFiles": [
+    "_Quick Notes/Hackathon Design Requirements.md",
     "_Quick Notes/CNS 2.md",
     "_Quick Notes/Things to buy.md",
     "TEMPLATES/Daily Note.md",
@@ -314,7 +325,6 @@
     "_Quick Notes/LinkedPost of video.md",
     "_Quick Notes/Imaginary Ideas.md",
     "_Quick Notes/How to train to be Visible.md",
-    "_Quick Notes/Hackathon Design Requirements.md",
     "_Quick Notes/GDGC Brandd Guide.md",
     "_Quick Notes/Fake new.md",
     "_Quick Notes/Email.md",
