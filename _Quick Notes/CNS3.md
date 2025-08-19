@@ -1,32 +1,18 @@
 ```Java
 import java.util.Arrays;
 
-  
-
-public class Main {
-
-  
+public class Main { 
 
     static void MakeKey(String k, int[][] key, int len) {
-
         int x = 0;
-
         System.out.println("Characters from key string converted to numbers for matrix (A=0, B=1, etc.):");
-
         for (int i = 0; i < len; i++) {
-
             for (int j = 0; j < len; j++) {
-
                 key[i][j] = (k.charAt(x)) % 65;
-
                 System.out.print(key[i][j] + " ");
-
                 x++;
-
             }
-
             System.out.println("");
-
         }
 
         System.out.println("--- End Key Matrix Construction ---");
