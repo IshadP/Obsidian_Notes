@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -365,16 +365,15 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "a559a8580fe0565f",
+  "active": "01313e4e1c9a3f70",
   "lastOpenFiles": [
+    "Untitled.base",
     "_Quick Notes/Untitled 2.md",
     "_Quick Notes/Untitled 1.md",
     "_Quick Notes/Untitled.md",
-    "Untitled.base",
     "09-IMAGES/image-21.png",
     "_Quick Notes/CNS4.md",
     "09-IMAGES/image-20.png",
@@ -399,7 +398,6 @@
     "_Quick Notes/LinkedPost of video.md",
     "_Quick Notes/Imaginary Ideas.md",
     "_Quick Notes/How to train to be Visible.md",
-    "_Quick Notes/GDGC Brandd Guide.md",
     "Inspiration.canvas",
     "09-IMAGES/image-19.png",
     "09-IMAGES/t04g40ah.png",
