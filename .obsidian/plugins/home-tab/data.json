@@ -24,8 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "TEMPLATES/Daily Note.md",
+      "timestamp": 1756546181735
+    },
+    {
+      "filepath": "_Quick Notes/CNS4.md",
+      "timestamp": 1756546177805
+    },
+    {
       "filepath": "Untitled.base",
-      "timestamp": 1756545228421
+      "timestamp": 1756546176037
+    },
+    {
+      "filepath": "_Quick Notes/Hackathon Design Requirements.md",
+      "timestamp": 1756546174337
     }
   ],
   "bookmarkedFileStore": [],

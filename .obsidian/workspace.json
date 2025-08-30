@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8964384d8f644520",
+        "id": "93e8963dfc6354e1",
         "type": "tabs",
         "children": [
           {
-            "id": "234f5df90d771db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMPLATES/Daily Note.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note"
-            }
-          },
-          {
-            "id": "2ae26c62d8ed03ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Quick Notes/Things to buy.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to buy"
-            }
-          },
-          {
-            "id": "5bc1e2c4d7162fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Quick Notes/Hackathon Design Requirements.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hackathon Design Requirements"
-            }
-          },
-          {
-            "id": "01313e4e1c9a3f70",
+            "id": "6c38de53d907facf",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -58,62 +16,8 @@
               "icon": "search",
               "title": "Home tab"
             }
-          },
-          {
-            "id": "55eb0dc48f53ee64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Quick Notes/CNS4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CNS4"
-            }
-          },
-          {
-            "id": "a559a8580fe0565f",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2cf7b2f5603a977a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Quick Notes/CNS3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CNS3"
-            }
-          },
-          {
-            "id": "864088de9afd9ca8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "befe8b0628ae981f",
@@ -368,20 +273,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "01313e4e1c9a3f70",
+  "active": "6c38de53d907facf",
   "lastOpenFiles": [
+    "TEMPLATES/Daily Note.md",
+    "_Quick Notes/CNS4.md",
     "Untitled.base",
+    "_Quick Notes/Hackathon Design Requirements.md",
     "_Quick Notes/Untitled 2.md",
     "_Quick Notes/Untitled 1.md",
     "_Quick Notes/Untitled.md",
     "09-IMAGES/image-21.png",
-    "_Quick Notes/CNS4.md",
     "09-IMAGES/image-20.png",
     "_Quick Notes/CNS 2.md",
     "_Quick Notes/CNS3.md",
-    "_Quick Notes/Hackathon Design Requirements.md",
     "_Quick Notes/Things to buy.md",
-    "TEMPLATES/Daily Note.md",
     "02-DESIGN/2-THEORY/ARTICLES/Product Vision.md",
     "02-DESIGN/2-THEORY/ARTICLES/ARTICLES.md",
     "02-DESIGN/02-DESIGN.md",
