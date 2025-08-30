@@ -77,12 +77,13 @@
             "id": "a559a8580fe0565f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -112,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,8 +172,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
         ]
@@ -195,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-DESIGN/2-THEORY/ARTICLES/University-Program.md"
+                "file": "Untitled.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for University-Program"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -258,6 +259,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6d1ddd17a1522a05",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Untitled.base"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       },
@@ -271,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-DESIGN/2-THEORY/ARTICLES/University-Program.md",
+                "file": "Untitled.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +312,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of University-Program"
+              "title": "Graph of Untitled"
             }
           },
           {
@@ -351,11 +364,14 @@
       "omnisearch:Omnisearch": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "01313e4e1c9a3f70",
+  "active": "a559a8580fe0565f",
   "lastOpenFiles": [
+    "Untitled.base",
     "09-IMAGES/image-21.png",
     "_Quick Notes/CNS4.md",
     "09-IMAGES/image-20.png",
@@ -393,7 +409,6 @@
     "09-IMAGES/image-16.png",
     "09-IMAGES/image-15.png",
     "09-IMAGES/image-14.png",
-    "09-IMAGES/image-13.png",
     "null",
     "03-ME/cv-en.typ",
     "02-DESIGN/2-THEORY/COURSES/Google UX Course",
