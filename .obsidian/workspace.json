@@ -74,6 +74,18 @@
             }
           },
           {
+            "id": "a559a8580fe0565f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "2cf7b2f5603a977a",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -342,7 +354,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55eb0dc48f53ee64",
+  "active": "01313e4e1c9a3f70",
   "lastOpenFiles": [
     "09-IMAGES/image-21.png",
     "_Quick Notes/CNS4.md",
